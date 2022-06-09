@@ -24,6 +24,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 * **Nerfels**: "Renderable Neural Codes for Improved Camera Pose Estimation", *arXiv*. [[Paper](https://arxiv.org/pdf/2206.01916.pdf)]
 
+* "SDF-based RGB-D Camera Tracking in Neural Scene Representations", *ICRA Workshop, 2022*. [[Paper](https://neural-implicit-workshop.stanford.edu/assets/pdf/bruns.pdf)]
+
 ---
 ## SLAM
 * **iSDF**: Real-Time Neural Signed Distance Fields
