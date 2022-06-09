@@ -18,7 +18,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
  
 ---
 ## Object Pose Estimation
-* **i-NeRF**: "Inverting Neural Radiance Fields for Pose Estimation", *IROS, 2021*. [[Paper](https://arxiv.org/pdf/2012.05877.pdf)] [[Pytorch Code](https://github.com/yenchenlin/iNeRF-public)] [[Website](https://yenchenlin.me/inerf/)] [Dataset](https://github.com/BerkeleyAutomation/dex-nerf-datasets)
+* **iNeRF**: "Inverting Neural Radiance Fields for Pose Estimation", *IROS, 2021*. [[Paper](https://arxiv.org/pdf/2012.05877.pdf)] [[Pytorch Code](https://github.com/yenchenlin/iNeRF-public)] [[Website](https://yenchenlin.me/inerf/)] [Dataset](https://github.com/BerkeleyAutomation/dex-nerf-datasets)
 
 * **NeRF-Pose**: " A First-Reconstruct-Then-Regress Approach for Weakly-supervised 6D Object Pose Estimation", *arXiv*. [[Paper](https://arxiv.org/pdf/2203.04802.pdf)]
 
