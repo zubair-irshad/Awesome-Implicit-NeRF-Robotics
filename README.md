@@ -22,6 +22,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 * **NeRF-Pose**: " A First-Reconstruct-Then-Regress Approach for Weakly-supervised 6D Object Pose Estimation", *arXiv*. [[Paper](https://arxiv.org/pdf/2203.04802.pdf)]
 
+* **Nerfels**: "Renderable Neural Codes for Improved Camera Pose Estimation", *arXiv*. [[Paper](https://arxiv.org/pdf/2206.01916.pdf)]
+
 ---
 ## SLAM
 * **iSDF**: Real-Time Neural Signed Distance Fields
