@@ -4,8 +4,9 @@ This repo contains a curative list of **Implicit Representations and NeRF papers
 
 #### Please feel free to send me [pull requests](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics/blob/main/how-to-PR.md) or [email](mailto:muhammadzubairirshad@gmail.com) to add papers! <br>
 
-
 If you find this repository useful, please consider [citing](#citation) and STARing this list. Feel free to share this list with others!
+
+For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeRF And Beyond](https://arxiv.org/abs/2101.05204)), Blog post ([NeRF Explosion 2020](https://dellaert.github.io/NeRF/)) and Collection ([awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF))
 
 ---
 ## Overview
