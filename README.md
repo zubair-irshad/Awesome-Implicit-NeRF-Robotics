@@ -23,6 +23,10 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **NeRF-Pose**: " A First-Reconstruct-Then-Regress Approach for Weakly-supervised 6D Object Pose Estimation", *arXiv*. [[Paper](https://arxiv.org/pdf/2203.04802.pdf)]
 
+* **Nerfels**: "Renderable Neural Codes for Improved Camera Pose Estimation", *arXiv*. [[Paper](https://arxiv.org/pdf/2206.01916.pdf)]
+
+* "SDF-based RGB-D Camera Tracking in Neural Scene Representations", *ICRA Workshop, 2022*. [[Paper](https://neural-implicit-workshop.stanford.edu/assets/pdf/bruns.pdf)]
+
 ---
 ## SLAM
 * **iSDF**: Real-Time Neural Signed Distance Fields
