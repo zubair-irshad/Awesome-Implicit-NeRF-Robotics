@@ -11,10 +11,10 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 ---
 ## Overview
 
-- [Object Pose Estimation](#object-pose--estimation)
+- [Object Pose Estimation](#object-pose-estimation)
 - [SLAM](#slam)
-- [Manipulation/RL](#manipulation-rl)
-- [Planning/Navigation](#dynamics-navigation)
+- [Manipulation/RL](#manipulationrl)
+- [Planning/Navigation](#planningnavigation)
 - [Citation](#citation)
  
 ---
@@ -44,6 +44,8 @@ SE(3)-Equivariant Object Representations for Manipulation, *arXiv*. [[Paper](htt
 * **Dex-NeRF**: "Using a Neural Radiance Field to Grasp Transparent Objects", *CORL, 2021*. [[Paper](https://arxiv.org/abs/2110.14217)]  [[Website](https://sites.google.com/view/dex-nerf)]
 
 * **NeRF-Supervision**: "Learning Dense Object Descriptors from Neural Radiance Fields", *ICRA, 2022*. [[Paper](https://arxiv.org/abs/2203.01913)] [Pytorch Code](https://github.com/yenchenlin/nerf-supervision-public) [[Website](https://yenchenlin.me/nerf-supervision/)]
+
+* **GIGA**: "Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations", *RSS, 2021*. [[Paper](https://arxiv.org/abs/2104.01542)] [[Pytorch Code](https://github.com/UT-Austin-RPL/GIGA)] [[Website](https://sites.google.com/view/rpl-giga2021)]
 
 ---
 ## Planning/Navigation
