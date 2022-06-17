@@ -23,7 +23,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **NeRF-Pose**: " A First-Reconstruct-Then-Regress Approach for Weakly-supervised 6D Object Pose Estimation", *arXiv*. [[Paper](https://arxiv.org/pdf/2203.04802.pdf)]
 
-* **SNAKE**: " SNAKE: Shape-aware Neural 3D Keypoint Field", *arXiv*. [[Paper](https://arxiv.org/abs/2206.01724.pds)] [[Pytorch Code](https://github.com/zhongcl-thu/SNAKE)]
+* **SNAKE**: " SNAKE: Shape-aware Neural 3D Keypoint Field", *arXiv*. [[Paper](https://arxiv.org/abs/2206.01724.pdf)] [[Pytorch Code](https://github.com/zhongcl-thu/SNAKE)]
 
 ---
 ## SLAM
