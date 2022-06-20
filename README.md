@@ -74,7 +74,7 @@ If you find this repository useful, please consider citing this list:
 ```
 @misc{irshad2022implicitnerfroboticspaperslist,
     title = {Awesome-Implicit-NeRF-Robotics},
-    author = {Irshad, Muhammad Zubair},
+    author = {Muhammad Zubair Irshad},
     journal = {GitHub repository},
     url = {https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics},
     year = {2022},
