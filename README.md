@@ -20,7 +20,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 ---
 ## Object Pose Estimation
 
-* **ShAPO** :tophat:: Implicit Representations for Multi Object Shape Appearance and Pose Optimization, *ECCV, 2022*. [[Paper](https://arxiv.org/pdf/2207.13691.pdf)] [[Webpage](https://zubair-irshad.github.io/projects/ShAPO.html)] [[Video](https://youtu.be/LMg7NDcLDcA)] 
+* **ShAPO** :tophat:: Implicit Representations for Multi Object Shape Appearance and Pose Optimization, *ECCV, 2022*. [[Paper](https://arxiv.org/pdf/2207.13691.pdf)] [[Pytorch Code](https://github.com/zubair-irshad/shapo)] [[Webpage](https://zubair-irshad.github.io/projects/ShAPO.html)] [[Video](https://youtu.be/LMg7NDcLDcA)] 
 
 * **iNeRF**: "Inverting Neural Radiance Fields for Pose Estimation", *IROS, 2021*. [[Paper](https://arxiv.org/pdf/2012.05877.pdf)] [[Pytorch Code](https://github.com/yenchenlin/iNeRF-public)] [[Website](https://yenchenlin.me/inerf/)] [[Dataset](https://github.com/BerkeleyAutomation/dex-nerf-datasets)]
 
@@ -41,6 +41,8 @@ for Robot Perception, *RSS, 2022*. [[Paper](https://arxiv.org/abs/2204.02296)] [
 
 * **BNV-Fusion**: "BNV-Fusion: Dense 3D Reconstruction using Bi-level Neural Volume Fusion", *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2204.01139.pdf)] [Pytorch Code](https://github.com/likojack/bnv_fusion)]
 
+* **NeRF-SLAM**: "Real-Time Dense Monocular SLAM with Neural Radiance Fields", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.13641.pdf)]
+
 ---
 ## Manipulation/RL
 * **Neural Descriptor Fields**:
@@ -50,7 +52,7 @@ SE(3)-Equivariant Object Representations for Manipulation, *arXiv*. [[Paper](htt
 
 * **Dex-NeRF**: "Using a Neural Radiance Field to Grasp Transparent Objects", *CORL, 2021*. [[Paper](https://arxiv.org/abs/2110.14217)]  [[Website](https://sites.google.com/view/dex-nerf)]
 
-* **NeRF-Supervision**: "Learning Dense Object Descriptors from Neural Radiance Fields", *ICRA, 2022*. [[Paper](https://arxiv.org/abs/2203.01913)] [Pytorch Code](https://github.com/yenchenlin/nerf-supervision-public) [[Website](https://yenchenlin.me/nerf-supervision/)]
+* **NeRF-Supervision**: "Learning Dense Object Descriptors from Neural Radiance Fields", *ICRA, 2022*. [[Paper](https://arxiv.org/abs/2203.01913)] [[Pytorch Code](https://github.com/yenchenlin/nerf-supervision-public)] [[Website](https://yenchenlin.me/nerf-supervision/)]
 
 * **GIGA**: "Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations", *RSS, 2021*. [[Paper](https://arxiv.org/abs/2104.01542)] [[Pytorch Code](https://github.com/UT-Austin-RPL/GIGA)] [[Website](https://sites.google.com/view/rpl-giga2021)]
 
@@ -62,6 +64,7 @@ SE(3)-Equivariant Object Representations for Manipulation, *arXiv*. [[Paper](htt
 
 * **NeRF2Real**: "Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields"", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.04932.pdf)] [[Website](https://sites.google.com/view/nerf2real/home)]
 
+* **NiFR**: "Neural Fields for Robotic Object Manipulation from a Single Image", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.12126.pdf)]
 ---
 ## Planning/Navigation
 * **NeRFlow**: "Neural Radiance Flow for 4D View Synthesis and Video Processing", *ICCV, 2021*. [[Paper](https://arxiv.org/abs/2012.09790)] [[Pytorch Code](https://github.com/yilundu/nerflow)] [[Website](https://yilundu.github.io/nerflow/)] 
@@ -79,8 +82,8 @@ for Reactive Motion Generation", *arXiv*. [[Paper](https://arxiv.org/abs/2203.04
 
 * **ESDF**: "Sampling-free obstacle gradients and reactive planning in Neural Radiance Fields", *arXiv*. [[Paper](https://arxiv.org/abs/2205.01389)]
 
-* "Full-Body Visual Self-Modeling of Robot Morphologies", *arXiv*. [[Paper](https://arxiv.org/abs/2205.01389)] [Pytorch Code](https://github.com/BoyuanChen/visual-selfmodeling) [Website](https://robot-morphology.cs.columbia.edu/)
-
+* "Full-Body Visual Self-Modeling of Robot Morphologies", *arXiv*. [[Paper](https://arxiv.org/abs/2205.01389)] [[Pytorch Code](https://github.com/BoyuanChen/visual-selfmodeling)] [[Website](https://robot-morphology.cs.columbia.edu/)
+]
 ----
 ## Citation
 If you find this repository useful, please consider citing this list:
