@@ -56,6 +56,9 @@ for Robot Perception, *RSS, 2022*. [[Paper](https://arxiv.org/abs/2204.02296)] [
 
 ---
 ## Manipulation/RL
+
+* **Ditto**: Building Digital Twins of Articulated Objects from Interaction, *CVPR, 2022*. [[Paper](https://arxiv.org/abs/2202.08227)] [[Pytorch Code](https://github.com/UT-Austin-RPL/Ditto)] [[Website](https://ut-austin-rpl.github.io/Ditto/)]
+
 * **Neural Descriptor Fields**:
 SE(3)-Equivariant Object Representations for Manipulation, *arXiv*. [[Paper](https://arxiv.org/abs/2112.05124)] [[Pytorch Code](https://github.com/anthonysimeonov/ndf_robot)] [[Website](https://yilundu.github.io/ndf/)]
 
