@@ -33,6 +33,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **SNAKE**: " SNAKE: Shape-aware Neural 3D Keypoint Field", *NeurIPS, 2022*. [[Paper](https://arxiv.org/abs/2206.01724.pdf)] [[Pytorch Code](https://github.com/zhongcl-thu/SNAKE)]
 
+* **PixTrack**: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment, *arXiv*. [[Paper](https://arxiv.org/pdf/2209.03910.pdf)] [[Pytorch Code](https://github.com/GiantAI/pixtrack)]
+
 ---
 ## SLAM
 * **iSDF**: Real-Time Neural Signed Distance Fields
