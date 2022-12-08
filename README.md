@@ -78,6 +78,8 @@ Neural Descriptor Fields, *CORL 2022*. [[Paper](https://arxiv.org/pdf/2211.09786
 * **Neural Descriptor Fields**:
 SE(3)-Equivariant Object Representations for Manipulation, *arXiv*. [[Paper](https://arxiv.org/abs/2112.05124)] [[Pytorch Code](https://github.com/anthonysimeonov/ndf_robot)] [[Website](https://yilundu.github.io/ndf/)]
 
+* **Evo-NeRF**: Evolving NeRF for Sequential Robot Grasping of Transparent Objects, *CORL 2022*. [[Paper](https://openreview.net/pdf?id=Bxr45keYrf)]  [[Website](https://sites.google.com/view/evo-nerf)]
+
 * **NeRF-RL**: "Reinforcement Learning with Neural Radiance Fields", *arXiv*. [[Paper](https://dannydriess.github.io/papers/22-driess-NeRF-RL-preprint.pdf)]  [[Website](https://dannydriess.github.io/nerf-rl/)]
 
 * **Neural Motion Fields**: Encoding Grasp Trajectories as Implicit Value Functions, *RSS 2022*. [[Paper](https://arxiv.org/pdf/2206.14854.pdf)]  [[Video](https://youtu.be/B-pEhT1pi-Q)]
