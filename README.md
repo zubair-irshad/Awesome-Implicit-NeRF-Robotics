@@ -108,6 +108,11 @@ SE(3)-Equivariant Object Representations for Manipulation, *arXiv*. [[Paper](htt
 
 * **NiFR**: "Neural Fields for Robotic Object Manipulation from a Single Image", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.12126.pdf)]
 
+* **GraspNeRF**: "Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.06575v1.pdf)]
+
+* "RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.11668v1.pdf)] [[Website](https://sites.google.com/nvidia.com/ngp-mpc/)]
+	
+
 ---
 ## Planning/Navigation
 * **NeRFlow**: "Neural Radiance Flow for 4D View Synthesis and Video Processing", *ICCV, 2021*. [[Paper](https://arxiv.org/abs/2012.09790)] [[Pytorch Code](https://github.com/yilundu/nerflow)] [[Website](https://yilundu.github.io/nerflow/)] 
