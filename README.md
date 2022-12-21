@@ -41,6 +41,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **PixTrack**: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment, *arXiv*. [[Paper](https://arxiv.org/pdf/2209.03910.pdf)] [[Pytorch Code](https://github.com/GiantAI/pixtrack)]
 
+* ""Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation"", *arXiv*. [[Paper](https://arxiv.org/abs/2210.10108v1)] [[Website](https://pnerfp.github.io/)]
+
 ---
 ## SLAM
 * **iSDF**: Real-Time Neural Signed Distance Fields
