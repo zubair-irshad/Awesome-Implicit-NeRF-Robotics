@@ -68,6 +68,8 @@ for Robot Perception, *RSS, 2022*. [[Paper](https://arxiv.org/abs/2204.02296)] [
 
 * "SDF-based RGB-D Camera Tracking in Neural Scene Representations", *ICRA Workshop, 2022*. [[Paper](https://neural-implicit-workshop.stanford.edu/assets/pdf/bruns.pdf)]
 
+* **Loc-NeRF**: Monte Carlo Localization using Neural Radiance Fields, *arXiv,  2022*. [[Paper](https://arxiv.org/abs/2209.09050)] [[Code](https://github.com/MIT-SPARK/Loc-NeRF)] [[Video](https://www.youtube.com/watch?v=yIgl3kbpbXY)]
+
 ---
 ## Physics
 * **DANOs**: Differentiable Physics Simulation of Dynamics-Augmented Neural Objects, *arXiv*. [[Paper](https://arxiv.org/abs/2210.09420)] [[Video](https://youtu.be/Md0PM-wv_Xg)]
