@@ -148,7 +148,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **CLIP-Fields**: "Open-label semantic navigation with pre-trained VLMs and language models", *arxiv*. [[Paper](https://arxiv.org/abs/2210.05663)] [[Pytorch Code and Tutorials](https://github.com/notmahi/clip-fields)] [[Website](https://mahis.life/clip-fields/)]
 
 * **NeRF-Frenemy**: "Co-Opting Adversarial Learning for Autonomy-Directed Co-Design", *RSS Workshop, 2022*. [[Paper](https://imrss2022.github.io/contributions/lewis.pdf)] [[Website](https://progress.eecs.umich.edu/projects/nerf-frenemy/)]
-* 
+
 * "Learning Implicit Priors for Motion Optimization", *IROS, 2022*. [[Paper](https://arxiv.org/pdf/2204.05369.pdf)] [[Website](https://sites.google.com/view/implicit-priors)]
 
 * "Full-Body Visual Self-Modeling of Robot Morphologies", *arXiv*. [[Paper](https://arxiv.org/abs/2205.01389)] [[Pytorch Code](https://github.com/BoyuanChen/visual-selfmodeling)] [[Website](https://robot-morphology.cs.columbia.edu/)
