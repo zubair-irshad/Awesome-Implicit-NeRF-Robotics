@@ -122,6 +122,10 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **CLA-NeRF**: "Category-Level Articulated Neural Radiance Field", *ICRA, 2022*. [[Paper](https://arxiv.org/pdf/2202.00181.pdf)] [[Website](https://weichengtseng.github.io/project_website/icra22/index.html)]
 
+* **VIRDO**: "Visio-tactile Implicit Representations of Deformable Objects", *ICRA, 2022*. [[Paper](https://arxiv.org/pdf/2202.00868.pdf)] [[Website](https://www.mmintlab.com/research/virdo-visio-tactile-implicit-representations-of-deformable-objects/)]
+
+* **SceneCollisionNet**: "Object Rearrangement Using Learned Implicit Collision Functions", *ICRA, 2021*. [[Paper](https://arxiv.org/pdf/2011.10726.pdf)] [[Website](https://research.nvidia.com/publication/2021-03_object-rearrangement-using-learned-implicit-collision-functions)]
+
 * "Learning Implicit Priors for Motion Optimization", *IROS, 2022*. [[Paper](https://arxiv.org/pdf/2204.05369.pdf)] [[Website](https://sites.google.com/view/implicit-priors)]
 
 * "Learning 6-DoF Task-oriented Grasp Detection via Implicit Estimation and Visual Affordance", "IROS, 2022". [[Paper](https://arxiv.org/pdf/2210.08537.pdf)]
