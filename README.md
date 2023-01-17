@@ -157,6 +157,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **Voxfield**: Non-Projective Signed Distance Fields for Online Planning and 3D Reconstruction", *IROS, 2022*. [[Paper](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/pan2022iros.pdf)] [[Pytorch Code](https://github.com/VIS4ROB-lab/voxfield)]
 
+* "Real-time Semantic 3D Reconstruction for High-Touch Surface Recognition for Robotic Disinfection", *IROS, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981300)] 
+
 * "Full-Body Visual Self-Modeling of Robot Morphologies", *arXiv*. [[Paper](https://arxiv.org/abs/2205.01389)] [[Pytorch Code](https://github.com/BoyuanChen/visual-selfmodeling)] [[Website](https://robot-morphology.cs.columbia.edu/)
 ]
 
