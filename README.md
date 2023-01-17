@@ -73,6 +73,10 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **Vox-Fusion**: "Dense Tracking and Mapping with Voxel-based Neural Implicit Representation", *ISMAR,  2022*. [[Paper](https://arxiv.org/pdf/2210.15858.pdf)] [[Website](https://yangxingrui.com/vox-fusion/)] [[Pytorch Code](https://github.com/zju3dv/Vox-Fusion)] [[Video](https://www.youtube.com/watch?v=Prp28y1b2Qs)]
 
+* **Continual Neural Mapping**: "Learning An Implicit Scene Representation from Sequential Observations", *ICCV,  2021*. [[Paper](https://arxiv.org/pdf/2108.05851.pdf)]
+
+* "Implicit Object Reconstruction With Noisy Data", *RSS Workshop, 2021*. [[Paper](https://arxiv.org/pdf/2204.10516.pdf)]
+
 * "Visual-Inertial Odometry Priors for Bundle-Adjusting Neural Radiance Fields", *ICCAS, 2022*. [[Paper](http://mpil.sookmyung.ac.kr/wp-content/uploads/2022/12/2022_ICCAS_Kim.pdf)]
 
 * "Towards Open World NeRF-Based SLAM", *arXiv, 2023*.  [[Paper](https://arxiv.org/pdf/2301.03102.pdf)]
@@ -126,6 +130,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **SceneCollisionNet**: "Object Rearrangement Using Learned Implicit Collision Functions", *ICRA, 2021*. [[Paper](https://arxiv.org/pdf/2011.10726.pdf)] [[Website](https://research.nvidia.com/publication/2021-03_object-rearrangement-using-learned-implicit-collision-functions)]
 
+* **ContactNets**: "Learning Discontinuous Contact Dynamics with Smooth, Implicit Representations", *CORL, 2020*. [[Paper](https://arxiv.org/pdf/2009.11193.pdf)] [[Pytorch Code](https://github.com/DAIRLab/contact-nets)]
+
 * "Learning Implicit Priors for Motion Optimization", *IROS, 2022*. [[Paper](https://arxiv.org/pdf/2204.05369.pdf)] [[Website](https://sites.google.com/view/implicit-priors)]
 
 * **NIFT**: "Neural Interaction Field and Template for Object Manipulation", *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2210.10992.pdf)]
@@ -157,6 +163,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **PIFO**: "Deep Visual Constraints: Neural Implicit Models for Manipulation Planning from Visual Input", *arXiv*. [[Paper](https://arxiv.org/pdf/2112.04812.pdf)] [[Website](https://sites.google.com/view/deep-visual-constraints)] 
 
+* "Learning Barrier Functions with Memory for Robust Safe Navigation", *RA-L, 2021*. [[Paper](https://arxiv.org/pdf/2011.01899.pdf)]
+
 * **RedSDF**: "Regularized Deep Signed Distance Fields for Reactive Motion Generation", *IROS, 2022*. [[Paper](https://arxiv.org/abs/2203.04739)] [[Website](https://irosalab.com/2022/02/28/redsdf/)] 
 
 * **ESDF**: "Sampling-free obstacle gradients and reactive planning in Neural Radiance Fields", *arXiv*. [[Paper](https://arxiv.org/abs/2205.01389)]
@@ -165,15 +173,14 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **Voxfield**: Non-Projective Signed Distance Fields for Online Planning and 3D Reconstruction", *IROS, 2022*. [[Paper](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/pan2022iros.pdf)] [[Pytorch Code](https://github.com/VIS4ROB-lab/voxfield)]
 
+* **NTFields**: "Neural Time Fields for Physics-Informed Robot Motion Planning", *arxiv*. [[Paper](https://arxiv.org/pdf/2210.00120.pdf)]
+
 * "Real-time Semantic 3D Reconstruction for High-Touch Surface Recognition for Robotic Disinfection", *IROS, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981300)] 
 
 * "Full-Body Visual Self-Modeling of Robot Morphologies", *arXiv*. [[Paper](https://arxiv.org/abs/2205.01389)] [[Pytorch Code](https://github.com/BoyuanChen/visual-selfmodeling)] [[Website](https://robot-morphology.cs.columbia.edu/)
 ]
 
 * "Multi-Object Navigation with dynamically learned neural implicit representations", *arxiv*. [[Paper](https://arxiv.org/abs/2210.05129)]
-
-
-
 
 ----
 ## Citation
