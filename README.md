@@ -15,6 +15,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
   - [SLAM](#slam)
   - [Physics](#physics)
   - [Manipulation/RL](#manipulationrl)
+  - [Object Reconstruction](#object-reconstruction)
   - [Planning/Navigation](#planningnavigation)
   - [Citation](#citation)
  
@@ -148,8 +149,18 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * ""Affordance Transfer based on Self-Aligning Implicit Representations of Local Surfaces", "RSS Workshop, 2022". [Paper][https://imrss2022.github.io/contributions/tekden.pdf]
 
-* **EndoNeRF**: "Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery", *MICCAI 2022*. [[Paper](https://arxiv.org/pdf/2206.15255.pdf)] [[Pytorch Code](https://github.com/med-air/EndoNeRF)]
+* **EndoNeRF**: "Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery", *MICCAI, 2022*. [[Paper](https://arxiv.org/pdf/2206.15255.pdf)] [[Pytorch Code](https://github.com/med-air/EndoNeRF)]
 	
+---
+## Object Reconstruction
+
+* "Self-supervised Neural Articulated Shape and Appearance Models", *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2205.08525.pdf)] [[Website](https://weify627.github.io/nasam/)]
+
+* **NeuS**: "Learning Neural Implicit Surfacesby Volume Rendering for Multi-view Reconstruction", *Neurips, 2021*. [[Paper](https://arxiv.org/pdf/2106.10689.pdf)] [[Website](https://lingjie0206.github.io/papers/NeuS/)]
+
+* **VolSDF**: "Volume Rendering of Neural Implicit Surfaces", *Neurips, 2021*. [[Paper](https://arxiv.org/pdf/2106.12052.pdf)] [[Pytorch Code](https://github.com/lioryariv/volsdf)]
+
+* **UNISURF**: "Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction", *ICCV, 2021*. [[Paper](https://arxiv.org/pdf/2104.10078.pdf)] [[Website](https://moechsle.github.io/unisurf/)] [[Pytorch Code](https://github.com/autonomousvision/unisurf)]
 
 ---
 ## Planning/Navigation
