@@ -78,6 +78,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **Continual Neural Mapping**: "Learning An Implicit Scene Representation from Sequential Observations", *ICCV,  2021*. [[Paper](https://arxiv.org/pdf/2108.05851.pdf)]
 
+* **LATITUDE**: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF, *ICRA,  2023*. [[Paper](https://arxiv.org/pdf/2209.09357.pdf)] [[Pytorch Code](https://github.com/jike5/LATITUDE)]
+
 * "Implicit Object Reconstruction With Noisy Data", *RSS Workshop, 2021*. [[Paper](https://arxiv.org/pdf/2204.10516.pdf)]
 
 * "Visual-Inertial Odometry Priors for Bundle-Adjusting Neural Radiance Fields", *ICCAS, 2022*. [[Paper](http://mpil.sookmyung.ac.kr/wp-content/uploads/2022/12/2022_ICCAS_Kim.pdf)]
@@ -207,6 +209,10 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **CLIP-Fields**: "Open-label semantic navigation with pre-trained VLMs and language models", *arxiv*. [[Paper](https://arxiv.org/abs/2210.05663)] [[Pytorch Code and Tutorials](https://github.com/notmahi/clip-fields)] [[Website](https://mahis.life/clip-fields/)]
 
 * **Voxfield**: Non-Projective Signed Distance Fields for Online Planning and 3D Reconstruction", *IROS, 2022*. [[Paper](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/pan2022iros.pdf)] [[Pytorch Code](https://github.com/VIS4ROB-lab/voxfield)]
+
+* **NFOMP**: Neural Field for Optimal Motion Planner of Differential Drive Robots With Nonholonomic Constraints", *RA-L, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9851532)] [[Video](https://youtu.be/beEfEOmxJfM)]
+
+* **MeSLAM**: Memory Efficient SLAM based on Neural Fields, *IEEE SMC, 2022*. [[Paper](https://arxiv.org/pdf/2209.09357.pdf)] 
 
 * **NTFields**: "Neural Time Fields for Physics-Informed Robot Motion Planning", *arxiv*. [[Paper](https://arxiv.org/pdf/2210.00120.pdf)]
 
