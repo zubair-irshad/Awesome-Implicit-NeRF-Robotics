@@ -165,6 +165,10 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * ""Affordance Transfer based on Self-Aligning Implicit Representations of Local Surfaces", "RSS Workshop, 2022". [Paper][https://imrss2022.github.io/contributions/tekden.pdf]
 
+* "A Real2Sim2Real Method for Robust Object Grasping with Neural Surface Reconstruction", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.02685.pdf)] [[Video](https://www.youtube.com/watch?v=TkvAKLsxkSc)]
+
+* "Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.03043.pdf)] [[Website](https://makezur.github.io/FeatureRealisticFusion/)]
+
 * **EndoNeRF**: "Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery", *MICCAI, 2022*. [[Paper](https://arxiv.org/pdf/2206.15255.pdf)] [[Pytorch Code](https://github.com/med-air/EndoNeRF)]
 	
 ---
