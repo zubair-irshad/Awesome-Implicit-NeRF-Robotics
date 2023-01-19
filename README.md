@@ -147,6 +147,10 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **SE(3)-DiffusionFields**: "Learning smooth cost functions for joint grasp and motion optimization through diffusion", *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2209.03855.pdf)] [[Pytorch Code](https://github.com/TheCamusean/grasp_diffusion)]
 
+* **ACID**: "Action-Conditional Implicit Visual Dynamics for Deformable Object Manipulation", *RSS, 2022*. [[Paper](https://arxiv.org/pdf/2203.06856.pdf)] [[Pytorch Code](https://github.com/NVlabs/ACID)]
+
+* **CGF**: "Learning Continuous Grasping Function with a Dexterous Hand from Human Demonstrations", *arXiv*. [[Paper](https://arxiv.org/pdf/2203.06856.pdf)] [[Website](https://jianglongye.com/cgf/)]
+
 * **NGDF**: "Neural Grasp Distance Fields for Robot Manipulation", *arXiv*. [[Paper](https://arxiv.org/pdf/2211.02647.pdf)] [[Website](https://sites.google.com/view/neural-grasp-distance-fields?pli=1)] [[Pytorch Code](https://github.com/facebookresearch/NGDF/)] 
 
 * **NCF**: "Neural Contact Fields: Tracking Extrinsic Contact with Tactile Sensing", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.09297.pdf)] [[Pytorch Code](https://github.com/carolinahiguera/NCF)] 
