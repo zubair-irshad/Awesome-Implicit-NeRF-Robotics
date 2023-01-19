@@ -90,6 +90,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **NeuPhysics**: "Editable Neural Geometry and Physics from Monocular Videos", *Neurips, 2022*. [[Paper](https://arxiv.org/abs/2210.12352)] [[Pytorch Code](https://github.com/gaoalexander/neuphysics)] [[Website](https://ylqiao.net/publication/2022nerf/)]
 
+* **NeRF-ysics**: "A Differentiable Pipeline for Enriching NeRF-Represented Objects with Dynamical Properties", *ICRA Workshop, 2022*. [[Paper](https://neural-implicit-workshop.stanford.edu/assets/pdf/lecleach.pdf)]
+
 ---
 ## Manipulation/RL
 
