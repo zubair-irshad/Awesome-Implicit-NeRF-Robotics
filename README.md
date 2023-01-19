@@ -238,6 +238,7 @@ If you find this repository useful, please consider citing this list:
     author = {Muhammad Zubair Irshad},
     journal = {GitHub repository},
     url = {https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics},
+    DOI= {10.5281/ZENODO.7552613}
     year = {2022},
 }
 ```
