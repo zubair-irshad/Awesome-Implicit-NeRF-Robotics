@@ -164,6 +164,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **UNISURF**: "Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction", *ICCV, 2021*. [[Paper](https://arxiv.org/pdf/2104.10078.pdf)] [[Website](https://moechsle.github.io/unisurf/)] [[Pytorch Code](https://github.com/autonomousvision/unisurf)]
 
+* **ObjectSDF**: "Object-Compositional Neural Implicit Surfaces", *ECCV, 2022*. [[Paper](https://arxiv.org/pdf/2207.09686.pdf)] [[Website](https://wuqianyi.top/objectsdf/)] [[Pytorch Code](https://github.com/QianyiWu/objsdf)]
+
 ---
 ## Planning/Navigation
 * **NeRFlow**: "Neural Radiance Flow for 4D View Synthesis and Video Processing", *ICCV, 2021*. [[Paper](https://arxiv.org/abs/2012.09790)] [[Pytorch Code](https://github.com/yilundu/nerflow)] [[Website](https://yilundu.github.io/nerflow/)] 
