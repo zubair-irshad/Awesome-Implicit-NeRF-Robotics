@@ -48,6 +48,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * "Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion", *arXiv*. [[Paper](https://arxiv.org/pdf/2211.11674.pdf)] [[Code](https://github.com/google-research/nerf-from-image)]
 
+* **Canonical Fields**: "Self-Supervised Learning of Pose-Canonicalized Neural Fields", *arXiv*. [[Paper](https://arxiv.org/pdf/2212.02493.pdf)]
+
 ---
 ## SLAM
 * **iSDF**: "Real-Time Neural Signed Distance Fields for Robot Perception", *RSS, 2022*. [[Paper](https://arxiv.org/abs/2204.02296)] [[Pytorch Code](https://github.com/facebookresearch/iSDF)] [[Website](https://joeaortiz.github.io/iSDF/)]
