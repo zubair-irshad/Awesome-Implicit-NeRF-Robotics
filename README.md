@@ -145,6 +145,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **GraspNeRF**: "Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.06575v1.pdf)]
 
+* **SE(3)-DiffusionFields**: "Learning smooth cost functions for joint grasp and motion optimization through diffusion", *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2209.03855.pdf)] [[Pytorch Code](https://github.com/TheCamusean/grasp_diffusion)]
+
 * "RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.11668v1.pdf)] [[Website](https://sites.google.com/nvidia.com/ngp-mpc/)]
 
 * ""Affordance Transfer based on Self-Aligning Implicit Representations of Local Surfaces", "RSS Workshop, 2022". [Paper][https://imrss2022.github.io/contributions/tekden.pdf]
