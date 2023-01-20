@@ -233,8 +233,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 ## Citation
 If you find this repository useful, please consider citing this list:
 ```
-@misc{irshad2022implicitnerfroboticspaperslist,
-    title = {Awesome-Implicit-NeRF-Robotics},
+@misc{irshad2022implicitnerfroboticsresources,
+    title = {Awesome Implicit NeRF Robotics - A curated list of resources on implicit neural representations and nerf relating to robotics},
     author = {Muhammad Zubair Irshad},
     journal = {GitHub repository},
     url = {https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics},
