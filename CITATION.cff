@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If this overiew is useful to you, please cite as below."
+authors:
+  - family-names: Irshad
+    given-names: Muhammad Zubair
+    orcid: https://orcid.org/0000-0002-1955-6194
+title: "Awesome Implicit NeRF Robotics - A curated list of resources on implicit neural representations and nerf relating to robotics"
+version: 1.0.0
+url: https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics
