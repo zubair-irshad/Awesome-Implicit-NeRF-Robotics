@@ -147,11 +147,11 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **MIRA**: "Mental Imagery for Robotic Affordances", *CORL, 2022*. [[Paper](https://arxiv.org/pdf/2212.06088.pdf)] [[Website](http://yenchenlin.me/mira/)]
 
+* **NiFR**: "Neural Fields for Robotic Object Manipulation from a Single Image", *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2210.12126.pdf)]
+
 * **NIFT**: "Neural Interaction Field and Template for Object Manipulation", *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2210.10992.pdf)]
 
 * "Learning 6-DoF Task-oriented Grasp Detection via Implicit Estimation and Visual Affordance", "IROS, 2022". [[Paper](https://arxiv.org/pdf/2210.08537.pdf)]
-
-* **NiFR**: "Neural Fields for Robotic Object Manipulation from a Single Image", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.12126.pdf)]
 
 * **GraspNeRF**: "Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.06575v1.pdf)]
 
