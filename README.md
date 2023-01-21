@@ -216,7 +216,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **MeSLAM**: Memory Efficient SLAM based on Neural Fields, *IEEE SMC, 2022*. [[Paper](https://arxiv.org/pdf/2209.09357.pdf)] 
 
-* **NTFields**: "Neural Time Fields for Physics-Informed Robot Motion Planning", *arxiv*. [[Paper](https://arxiv.org/pdf/2210.00120.pdf)]
+* **NTFields**: "Neural Time Fields for Physics-Informed Robot Motion Planning", *ICLR, 2023*. [[Paper](https://arxiv.org/pdf/2210.00120.pdf)]
 
 * "Real-time Semantic 3D Reconstruction for High-Touch Surface Recognition for Robotic Disinfection", *IROS, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981300)] 
 
