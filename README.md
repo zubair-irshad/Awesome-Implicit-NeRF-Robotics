@@ -78,6 +78,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **Vox-Fusion**: "Dense Tracking and Mapping with Voxel-based Neural Implicit Representation", *ISMAR,  2022*. [[Paper](https://arxiv.org/pdf/2210.15858.pdf)] [[Website](https://yangxingrui.com/vox-fusion/)] [[Pytorch Code](https://github.com/zju3dv/Vox-Fusion)] [[Video](https://www.youtube.com/watch?v=Prp28y1b2Qs)]
 
+* **iLabel**: "Revealing Objects in Neural Fields", *RA-L, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9996585)] 
+
 * **Continual Neural Mapping**: "Learning An Implicit Scene Representation from Sequential Observations", *ICCV,  2021*. [[Paper](https://arxiv.org/pdf/2108.05851.pdf)]
 
 * **LATITUDE**: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF, *ICRA,  2023*. [[Paper](https://arxiv.org/pdf/2209.09357.pdf)] [[Pytorch Code](https://github.com/jike5/LATITUDE)]
