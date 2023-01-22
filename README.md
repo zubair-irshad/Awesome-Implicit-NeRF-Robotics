@@ -46,9 +46,15 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **NARF22**: "Neural Articulated Radiance Fields for Configuration-Aware Rendering", *IROS, 2022*. [[Paper](https://arxiv.org/pdf/2210.01166.pdf)] [[Website](https://progress.eecs.umich.edu/projects/narf/)]
 
+* **SDFEst**: "Categorical Pose and Shape Estimation of Objects From RGB-D Using Signed Distance Fields", *RA-L, 2022*. [[Paper](https://arxiv.org/pdf/2207.04880.pdf)] [[Pytorch Code](https://arxiv.org/pdf/2207.04880.pdf)]
+
+* **SSC-6D**: "Self-Supervised Category-Level 6D Object Pose Estimation with Deep Implicit Shape Representation", *AAAI, 2022*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20104)] [[Pytorch Code](https://github.com/swords123/SSC-6D)]
+
 * "Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion", *arXiv*. [[Paper](https://arxiv.org/pdf/2211.11674.pdf)] [[Code](https://github.com/google-research/nerf-from-image)]
 
 * **Canonical Fields**: "Self-Supervised Learning of Pose-Canonicalized Neural Fields", *arXiv*. [[Paper](https://arxiv.org/pdf/2212.02493.pdf)]
+
+SDFEst: Categorical Pose and Shape Estimation of Objects From RGB-D Using Signed Distance Fields
 
 ---
 ## SLAM
