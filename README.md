@@ -46,6 +46,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **NARF22**: "Neural Articulated Radiance Fields for Configuration-Aware Rendering", *IROS, 2022*. [[Paper](https://arxiv.org/pdf/2210.01166.pdf)] [[Website](https://progress.eecs.umich.edu/projects/narf/)]
 
+* **FroDO**: "From Detections to 3D Objects", *CVPR, 2020*. [[Paper](https://arxiv.org/pdf/2005.05125.pdf)] 
+
 * **SDFEst**: "Categorical Pose and Shape Estimation of Objects From RGB-D Using Signed Distance Fields", *RA-L, 2022*. [[Paper](https://arxiv.org/pdf/2207.04880.pdf)] [[Pytorch Code](https://arxiv.org/pdf/2207.04880.pdf)]
 
 * **SSC-6D**: "Self-Supervised Category-Level 6D Object Pose Estimation with Deep Implicit Shape Representation", *AAAI, 2022*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20104)] [[Pytorch Code](https://github.com/swords123/SSC-6D)]
@@ -87,6 +89,10 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **Continual Neural Mapping**: "Learning An Implicit Scene Representation from Sequential Observations", *ICCV,  2021*. [[Paper](https://arxiv.org/pdf/2108.05851.pdf)]
 
 * **LATITUDE**: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF, *ICRA,  2023*. [[Paper](https://arxiv.org/pdf/2209.09357.pdf)] [[Pytorch Code](https://github.com/jike5/LATITUDE)]
+
+* **ObjectFusion**: Accurate object-level SLAM with neural object priors, *Graphical Models,  2022*. [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070322000418)]
+
+ObjectFusion: Accurate object-level SLAM with neural object priors
 
 * **iDF-SLAM**: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking, *arXiv*. [[Paper](https://arxiv.org/pdf/2209.07919.pdf)]
 
