@@ -92,7 +92,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **ObjectFusion**: Accurate object-level SLAM with neural object priors, *Graphical Models,  2022*. [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070322000418)]
 
-ObjectFusion: Accurate object-level SLAM with neural object priors
+* **NDF_Change**: Robust Change Detection Based on Neural Descriptor Fields, *IROS, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981246)]
 
 * **iDF-SLAM**: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking, *arXiv*. [[Paper](https://arxiv.org/pdf/2209.07919.pdf)]
 
