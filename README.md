@@ -90,6 +90,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **LATITUDE**: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF, *ICRA,  2023*. [[Paper](https://arxiv.org/pdf/2209.09357.pdf)] [[Pytorch Code](https://github.com/jike5/LATITUDE)]
 
+* "Dense RGB SLAM with neural implicit maps", *ICLR,  2023*. [[Paper](https://arxiv.org/pdf/2301.08930.pdf)]
+
 * **ObjectFusion**: Accurate object-level SLAM with neural object priors, *Graphical Models,  2022*. [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070322000418)]
 
 * **NDF_Change**: Robust Change Detection Based on Neural Descriptor Fields, *IROS, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981246)]
@@ -205,6 +207,10 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **UNISURF**: "Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction", *ICCV, 2021*. [[Paper](https://arxiv.org/pdf/2104.10078.pdf)] [[Website](https://moechsle.github.io/unisurf/)] [[Pytorch Code](https://github.com/autonomousvision/unisurf)]
 
 * **ObjectSDF**: "Object-Compositional Neural Implicit Surfaces", *ECCV, 2022*. [[Paper](https://arxiv.org/pdf/2207.09686.pdf)] [[Website](https://wuqianyi.top/objectsdf/)] [[Pytorch Code](https://github.com/QianyiWu/objsdf)]
+
+* **IDR**: "Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance", *Neurips, 2020*. [[Paper](https://arxiv.org/pdf/2003.09852.pdf)] [[Website](https://lioryariv.github.io/idr/)] [[Pytorch Code](https://github.com/lioryariv/idr)]
+
+* **DVR**: "Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision", *CVPR, 2020*. [[Paper](https://arxiv.org/pdf/1912.07372.pdf)] [[Pytorch Code](https://github.com/autonomousvision/differentiable_volumetric_rendering)]
 
 ---
 ## Physics
