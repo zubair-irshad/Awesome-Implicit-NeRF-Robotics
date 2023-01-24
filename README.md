@@ -92,6 +92,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * "Dense RGB SLAM with neural implicit maps", *ICLR,  2023*. [[Paper](https://arxiv.org/pdf/2301.08930.pdf)]
 
+* **NOCaL**: Calibration-free semi-supervised learning of odometry and camera intrinsics, *ICRA,  2023*. [[Paper](https://arxiv.org/pdf/2210.07435.pdf)] [[Website](https://roboticimaging.org/Projects/NOCaL/)]
+
 * **ObjectFusion**: Accurate object-level SLAM with neural object priors, *Graphical Models,  2022*. [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070322000418)]
 
 * **NDF_Change**: Robust Change Detection Based on Neural Descriptor Fields, *IROS, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981246)]
@@ -165,7 +167,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * "Learning 6-DoF Task-oriented Grasp Detection via Implicit Estimation and Visual Affordance", "IROS, 2022". [[Paper](https://arxiv.org/pdf/2210.08537.pdf)]
 
-* **GraspNeRF**: "Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.06575v1.pdf)]
+* **GraspNeRF**: "Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF", *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2210.06575v1.pdf)]
 
 * **Touching a NeRF**: "Leveraging Neural Radiance Fields for Tactile Sensory Data Generation ", *CORL, 2022*. [[Paper](https://openreview.net/pdf?id=No3mbanRlZJ)]
 
