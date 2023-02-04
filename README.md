@@ -78,6 +78,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **ESLAM**: "Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields", *arXiv,  2022*. [[Paper](https://arxiv.org/pdf/2211.11704.pdf)]
 
+* **Panoptic Multi-TSDFs**: "a Flexible Representation for Online Multi-resolution Volumetric Mapping and Long-term Dynamic Scene Consistency", *ICRA,  2022*. [[Paper](https://arxiv.org/pdf/2211.11704.pdf)] [[Pytorch Code](https://github.com/ethz-asl/panoptic_mapping)]
+
 * **SHINE-Mapping**: "Large-Scale 3D Mapping Using Sparse Hierarchical Implicit Neural Representations", *arXiv, 2022*. [[Paper](https://arxiv.org/pdf/2210.02299.pdf)] [[Code](https://github.com/PRBonn/SHINE_mapping)]
 
 * "SDF-based RGB-D Camera Tracking in Neural Scene Representations", *ICRA Workshop, 2022*. [[Paper](https://neural-implicit-workshop.stanford.edu/assets/pdf/bruns.pdf)]
@@ -249,6 +251,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **CLIP-Fields**: "Open-label semantic navigation with pre-trained VLMs and language models", *arxiv*. [[Paper](https://arxiv.org/abs/2210.05663)] [[Pytorch Code and Tutorials](https://github.com/notmahi/clip-fields)] [[Website](https://mahis.life/clip-fields/)]
 
 * **Voxfield**: Non-Projective Signed Distance Fields for Online Planning and 3D Reconstruction", *IROS, 2022*. [[Paper](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/pan2022iros.pdf)] [[Pytorch Code](https://github.com/VIS4ROB-lab/voxfield)]
+
+* **Voxblox**: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning, *IROS, 2017*. [[Paper](https://arxiv.org/pdf/1611.03631.pdf)]
 
 * **NFOMP**: Neural Field for Optimal Motion Planner of Differential Drive Robots With Nonholonomic Constraints", *RA-L, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9851532)] [[Video](https://youtu.be/beEfEOmxJfM)]
 
