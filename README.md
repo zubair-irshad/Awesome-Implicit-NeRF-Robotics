@@ -264,10 +264,11 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **IR-MCL**: "Implicit Representation-Based Online Global Localization", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.03113.pdf)] [[Pytorch Code](https://github.com/PRBonn/ir-mcl)] 
 
+* **360Roam**: "Real-Time Indoor Roaming Using Geometry-Aware 360◦ Radiance Fields", *arXiv*. [[Paper](https://arxiv.org/pdf/2208.02705.pdf)] [[Pytorch Code](https://github.com/PRBonn/ir-mcl)] 
+
 * "Enforcing safety for vision-based controllers via Control Barrier Functions and Neural Radiance Fields", *arXiv*. [[Paper](https://arxiv.org/pdf/2209.12266.pdf)]
 
-* "Full-Body Visual Self-Modeling of Robot Morphologies", *arXiv*. [[Paper](https://arxiv.org/abs/2205.01389)] [[Pytorch Code](https://github.com/BoyuanChen/visual-selfmodeling)] [[Website](https://robot-morphology.cs.columbia.edu/)
-]
+* "Full-Body Visual Self-Modeling of Robot Morphologies", *arXiv*. [[Paper](https://arxiv.org/abs/2205.01389)] [[Website](https://huajianup.github.io/research/360Roam/)]
 
 * "Efficient View Path Planning for Autonomous Implicit Reconstruction", *arxiv*. [[Paper](https://arxiv.org/abs/2210.05129)]
 
