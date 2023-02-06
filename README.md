@@ -76,7 +76,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **Nerfels**: "Renderable Neural Codes for Improved Camera Pose Estimation", *CVPR 2022 Workshop*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/IMW/papers/Avraham_Nerfels_Renderable_Neural_Codes_for_Improved_Camera_Pose_Estimation_CVPRW_2022_paper.pdf)]
 
-* **Orbeez-SLAM**: "A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping", *arXiv, 2022*. [[Paper](https://arxiv.org/pdf/2209.13274.pdf)]
+* **GO-Surf**: "A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping", *3DV, 2022*. [[Paper](https://arxiv.org/pdf/2206.14735.pdf)] [[Website(https://jingwenwang95.github.io/go_surf/)] [[Pytorch Code](https://github.com/JingwenWang95/go-surf)]
+
+* **Orbeez-SLAM**: "Neural Feature Grid Optimization for Fast, High-Fidelity RGB-D Surface Reconstruction", *arXiv, 2022*. [[Paper](https://arxiv.org/pdf/2209.13274.pdf)]
 
 * **ESLAM**: "Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields", *arXiv,  2022*. [[Paper](https://arxiv.org/pdf/2211.11704.pdf)]
 
@@ -103,6 +105,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **ObjectFusion**: "Accurate object-level SLAM with neural object priors", *Graphical Models,  2022*. [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070322000418)]
 
 * **NDF_Change**: "Robust Change Detection Based on Neural Descriptor Fields", *IROS, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981246)]
+
+* **SDF-Loc**: "Signed Distance Field based 2D Relocalization and Map Update in Dynamic Environments", *ACC, 2019*. [[Paper](https://hitcm.github.io/data/papers/ACC19_sdf_loc.pdf)]
 
 * **iDF-SLAM**: "End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking", *arXiv*. [[Paper](https://arxiv.org/pdf/2209.07919.pdf)]
 
@@ -225,6 +229,11 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **IDR**: "Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance", *Neurips, 2020*. [[Paper](https://arxiv.org/pdf/2003.09852.pdf)] [[Website](https://lioryariv.github.io/idr/)] [[Pytorch Code](https://github.com/lioryariv/idr)]
 
 * **DVR**: "Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision", *CVPR, 2020*. [[Paper](https://arxiv.org/pdf/1912.07372.pdf)] [[Pytorch Code](https://github.com/autonomousvision/differentiable_volumetric_rendering)]
+
+* **A-SDF**: "Learning Disentangled Signed Distance Functions for Articulated Shape Representation", *ICCV, 2021*. [[Paper](https://arxiv.org/pdf/2104.07645.pdf)] [[Pytorch Code](https://github.com/JitengMu/A-SDF)]
+
+* **DeepSDF**: " Learning Continuous Signed Distance Functions for Shape Representation", *ICCV, 2021*. [[Paper](
+https://arxiv.org/pdf/1901.05103.pdf)] [[Pytorch Code](https://github.com/facebookresearch/DeepSDF)]
 
 ---
 ## Physics
