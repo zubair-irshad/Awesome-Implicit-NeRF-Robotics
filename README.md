@@ -100,11 +100,13 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **NOCaL**: Calibration-free semi-supervised learning of odometry and camera intrinsics, *ICRA,  2023*. [[Paper](https://arxiv.org/pdf/2210.07435.pdf)] [[Website](https://roboticimaging.org/Projects/NOCaL/)]
 
-* **ObjectFusion**: Accurate object-level SLAM with neural object priors, *Graphical Models,  2022*. [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070322000418)]
+* **ObjectFusion**: "Accurate object-level SLAM with neural object priors", *Graphical Models,  2022*. [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070322000418)]
 
-* **NDF_Change**: Robust Change Detection Based on Neural Descriptor Fields, *IROS, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981246)]
+* **NDF_Change**: "Robust Change Detection Based on Neural Descriptor Fields", *IROS, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981246)]
 
-* **iDF-SLAM**: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking, *arXiv*. [[Paper](https://arxiv.org/pdf/2209.07919.pdf)]
+* **iDF-SLAM**: "End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking", *arXiv*. [[Paper](https://arxiv.org/pdf/2209.07919.pdf)]
+
+* **vMAP**: "Vectorised Object Mapping for Neural Field SLAM", *arXiv*. [[Paper](https://arxiv.org/pdf/2302.01838.pdf)] [[Website](https://kxhit.github.io/vMAP)]
 
 * "An Algorithm for the SE(3)-Transformation on Neural Implicit Maps for Remapping Functions", *RA-L, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9804847)]
 
