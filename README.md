@@ -171,6 +171,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * "RGB-D Local Implicit Function for Depth Completion of Transparent Objects", *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2104.00622.pdf)] [[Website](https://research.nvidia.com/publication/2021-03_rgb-d-local-implicit-function-depth-completion-transparent-objects)]
 
+* "Learning Models as Functionals of Signed-Distance Fields for Manipulation Planning", *CORL, 2021*. [[Paper](https://openreview.net/pdf?id=FS30JeiGG3h)] [[Video](https://youtu.be/ga8Wlkss7co)]
+
 * **ContactNets**: "Learning Discontinuous Contact Dynamics with Smooth, Implicit Representations", *CORL, 2020*. [[Paper](https://arxiv.org/pdf/2009.11193.pdf)] [[Pytorch Code](https://github.com/DAIRLab/contact-nets)]
 
 * "Learning Implicit Priors for Motion Optimization", *IROS, 2022*. [[Paper](https://arxiv.org/pdf/2204.05369.pdf)] [[Website](https://sites.google.com/view/implicit-priors)]
