@@ -122,6 +122,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * "ActiveRMAP: Radiance Field for Active Mapping And Planning", *arXiv, 2022". [[Paper](https://arxiv.org/pdf/2211.12656.pdf)]
 
+* **2D-SDF-SLAM**: "A Signed Distance Function based SLAM Frontend for Laser Scanners", *IROS, 2015*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7353633)]
+
 ---
 ## Manipulation/RL
 
@@ -232,7 +234,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **A-SDF**: "Learning Disentangled Signed Distance Functions for Articulated Shape Representation", *ICCV, 2021*. [[Paper](https://arxiv.org/pdf/2104.07645.pdf)] [[Pytorch Code](https://github.com/JitengMu/A-SDF)]
 
-* **DeepSDF**: " Learning Continuous Signed Distance Functions for Shape Representation", *ICCV, 2021*. [[Paper](
+* **CodeNeRF**: "Disentangled Neural Radiance Fields for Object Categories", *ICCV, 2021*. [[Paper](https://arxiv.org/pdf/2109.01750.pdf)] [[Pytorch Code](https://github.com/wbjang/code-nerf)]
+
+* **DeepSDF**: " Learning Continuous Signed Distance Functions for Shape Representation", *CVPR, 2019*. [[Paper](
 https://arxiv.org/pdf/1901.05103.pdf)] [[Pytorch Code](https://github.com/facebookresearch/DeepSDF)]
 
 ---
