@@ -52,6 +52,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **SSC-6D**: "Self-Supervised Category-Level 6D Object Pose Estimation with Deep Implicit Shape Representation", *AAAI, 2022*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20104)] [[Pytorch Code](https://github.com/swords123/SSC-6D)]
 
+* **Style2NeRF**: "An Unsupervised One-Shot NeRF for Semantic 3D Reconstruction", *BMVC, 2022*. [[Paper](https://bmvc2022.mpi-inf.mpg.de/0104.pdf)] 
+
 * "Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion", *arXiv*. [[Paper](https://arxiv.org/pdf/2211.11674.pdf)] [[Code](https://github.com/google-research/nerf-from-image)]
 
 * **TexPose**: "Neural Texture Learning for Self-Supervised 6D Object Pose Estimation", *arXiv*. [[Paper](https://arxiv.org/pdf/2212.12902.pdf)]
@@ -145,6 +147,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **ObjectFolder 2.0**: "A Multisensory Object Dataset for Sim2Real Transfer"", *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2204.02389.pdf)] [[Pytorch Code](https://github.com/rhgao/ObjectFolder)] [[Website](https://ai.stanford.edu/~rhgao/objectfolder2.0/)]
 
+* "Template-Based Category-Agnostic Instance Detection for Robotic Manipulation"", *RA-L, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9935113)] 
+
 * **NeRF2Real**: "Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields"", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.04932.pdf)] [[Website](https://sites.google.com/view/nerf2real/home)]
 
 * **NeRF-Frenemy**: "Co-Opting Adversarial Learning for Autonomy-Directed Co-Design", *RSS Workshop, 2022*. [[Paper](https://imrss2022.github.io/contributions/lewis.pdf)] [[Website](https://progress.eecs.umich.edu/projects/nerf-frenemy/)]
@@ -182,6 +186,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **KP-NERF**: "Dynamical Scene Representation and Control with Keypoint-Conditioned Neural Radiance Field", *CASE, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926555)]
 
 * **ACID**: "Action-Conditional Implicit Visual Dynamics for Deformable Object Manipulation", *RSS, 2022*. [[Paper](https://arxiv.org/pdf/2203.06856.pdf)] [[Pytorch Code](https://github.com/NVlabs/ACID)]
+
+* **TRITON**: "Neural Neural Textures Make Sim2Real Consistent", *CORL, 2022*. [[Paper](https://arxiv.org/pdf/2206.13500.pdf)] [[Website](https://tritonpaper.github.io/)] [[Pytorch Code](https://github.com/TritonPaper/TRITON)]
 
 * "Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding", *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2210.03043.pdf)] [[Website](https://makezur.github.io/FeatureRealisticFusion/)]
 
@@ -262,9 +268,13 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * "Real-time Semantic 3D Reconstruction for High-Touch Surface Recognition for Robotic Disinfection", *IROS, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981300)] 
 
+* **NeurAR**: "Neural Uncertainty for Autonomous 3D Reconstruction", *RA-L, 2023*. [[Paper](https://arxiv.org/pdf/2207.10985.pdf)] 
+
 * **IR-MCL**: "Implicit Representation-Based Online Global Localization", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.03113.pdf)] [[Pytorch Code](https://github.com/PRBonn/ir-mcl)] 
 
 * **360Roam**: "Real-Time Indoor Roaming Using Geometry-Aware 360◦ Radiance Fields", *arXiv*. [[Paper](https://arxiv.org/pdf/2208.02705.pdf)] [[Pytorch Code](https://github.com/PRBonn/ir-mcl)] 
+
+* "Learning Deep SDF Maps Online for Robot Navigation and Exploration", *arXiv*. [[Paper](https://arxiv.org/pdf/2207.10782.pdf)]
 
 * "Enforcing safety for vision-based controllers via Control Barrier Functions and Neural Radiance Fields", *arXiv*. [[Paper](https://arxiv.org/pdf/2209.12266.pdf)]
 
