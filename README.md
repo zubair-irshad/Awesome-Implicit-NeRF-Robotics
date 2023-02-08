@@ -74,6 +74,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **NeRF-SLAM**: "Real-Time Dense Monocular SLAM with Neural Radiance Fields", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.13641.pdf)]
 
+* **NICER-SLAM**: "Neural Implicit Scene Encoding for RGB SLAM", *arXiv*. [[Paper](https://arxiv.org/pdf/2302.03594.pdf)] [[Video](https://youtu.be/tUXzqEZWg2w)]
+
 * **Nerfels**: "Renderable Neural Codes for Improved Camera Pose Estimation", *CVPR 2022 Workshop*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/IMW/papers/Avraham_Nerfels_Renderable_Neural_Codes_for_Improved_Camera_Pose_Estimation_CVPRW_2022_paper.pdf)]
 
 * **GO-Surf**: "A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping", *3DV, 2022*. [[Paper](https://arxiv.org/pdf/2206.14735.pdf)] [[Website(https://jingwenwang95.github.io/go_surf/)] [[Pytorch Code](https://github.com/JingwenWang95/go-surf)]
@@ -92,7 +94,11 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **Vox-Fusion**: "Dense Tracking and Mapping with Voxel-based Neural Implicit Representation", *ISMAR,  2022*. [[Paper](https://arxiv.org/pdf/2210.15858.pdf)] [[Website](https://yangxingrui.com/vox-fusion/)] [[Pytorch Code](https://github.com/zju3dv/Vox-Fusion)] [[Video](https://www.youtube.com/watch?v=Prp28y1b2Qs)]
 
+* **NodeSLAM**: "Dense Tracking and Mapping with Voxel-based Neural Implicit Representation", *3DV, 2020*. [[Paper](https://arxiv.org/pdf/2004.04485.pdf)] 
+
 * **iLabel**: "Revealing Objects in Neural Fields", *RA-L, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9996585)] 
+
+* **Nerf–**: "Neural radiance fields without known camera parameters", *arXiv*. [[Paper](https://arxiv.org/pdf/2102.07064.pdf)] 
 
 * **Continual Neural Mapping**: "Learning An Implicit Scene Representation from Sequential Observations", *ICCV,  2021*. [[Paper](https://arxiv.org/pdf/2108.05851.pdf)]
 
@@ -240,6 +246,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **DeepSDF**: " Learning Continuous Signed Distance Functions for Shape Representation", *CVPR, 2019*. [[Paper](
 https://arxiv.org/pdf/1901.05103.pdf)] [[Pytorch Code](https://github.com/facebookresearch/DeepSDF)]
+
+* **Occupancy networks**: " Learning 3d reconstruction in function space", *CVPR, 2019*. [[Paper](https://arxiv.org/pdf/1812.03828.pdf)] [[Website](https://avg.is.mpg.de/publications/occupancy-networks)]
 
 ---
 ## Physics
