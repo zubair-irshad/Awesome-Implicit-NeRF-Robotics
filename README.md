@@ -295,7 +295,7 @@ https://arxiv.org/pdf/1901.05103.pdf)] [[Pytorch Code](https://github.com/facebo
 
 * **NeurAR**: "Neural Uncertainty for Autonomous 3D Reconstruction", *RA-L, 2023*. [[Paper](https://arxiv.org/pdf/2207.10985.pdf)] 
 
-* **IR-MCL**: "Implicit Representation-Based Online Global Localization", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.03113.pdf)] [[Pytorch Code](https://github.com/PRBonn/ir-mcl)] 
+* **IR-MCL**: "Implicit Representation-Based Online Global Localization", *RA-L, 2023*. [[Paper](https://arxiv.org/pdf/2210.03113.pdf)] [[Pytorch Code](https://github.com/PRBonn/ir-mcl)] 
 
 * **360Roam**: "Real-Time Indoor Roaming Using Geometry-Aware 360◦ Radiance Fields", *arXiv*. [[Paper](https://arxiv.org/pdf/2208.02705.pdf)] [[Pytorch Code](https://github.com/PRBonn/ir-mcl)] 
 
