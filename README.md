@@ -273,6 +273,8 @@ https://arxiv.org/pdf/1901.05103.pdf)] [[Pytorch Code](https://github.com/facebo
 
 * **PIFO**: "Deep Visual Constraints: Neural Implicit Models for Manipulation Planning from Visual Input", *arXiv*. [[Paper](https://arxiv.org/pdf/2112.04812.pdf)] [[Website](https://sites.google.com/view/deep-visual-constraints)] 
 
+* "Learning Continuous Environment Fields via Implicit Functions", *ICLR, 2022*. [[Paper](https://arxiv.org/pdf/2111.13997.pdf)] [[Website](https://research.nvidia.com/publication/2022-04_learning-continuous-environment-fields-implicit-functions)] 
+
 * "Learning Barrier Functions with Memory for Robust Safe Navigation", *RA-L, 2021*. [[Paper](https://arxiv.org/pdf/2011.01899.pdf)]
 
 * **RedSDF**: "Regularized Deep Signed Distance Fields for Reactive Motion Generation", *IROS, 2022*. [[Paper](https://arxiv.org/abs/2203.04739)] [[Website](https://irosalab.com/2022/02/28/redsdf/)] 
