@@ -293,6 +293,8 @@ https://arxiv.org/pdf/1901.05103.pdf)] [[Pytorch Code](https://github.com/facebo
 
 * **NFOMP**: Neural Field for Optimal Motion Planner of Differential Drive Robots With Nonholonomic Constraints", *RA-L, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9851532)] [[Video](https://youtu.be/beEfEOmxJfM)]
 
+* **CATNIPS**: Collision Avoidance Through Neural Implicit Probabilistic Scenes", *arXiv*. [[Paper](https://arxiv.org/pdf/2302.12931.pdf)] 
+
 * **MeSLAM**: Memory Efficient SLAM based on Neural Fields, *IEEE SMC, 2022*. [[Paper](https://arxiv.org/pdf/2209.09357.pdf)] 
 
 * **NTFields**: "Neural Time Fields for Physics-Informed Robot Motion Planning", *ICLR, 2023*. [[Paper](https://arxiv.org/pdf/2210.00120.pdf)]
