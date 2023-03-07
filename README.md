@@ -100,6 +100,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **Nerf–**: "Neural radiance fields without known camera parameters", *arXiv*. [[Paper](https://arxiv.org/pdf/2102.07064.pdf)] 
 
+* **L2G-NeRF**: "Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields", *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2211.11505.pdf)] [[Website](https://rover-xingyu.github.io/L2G-NeRF/)] [[code](https://github.com/rover-xingyu/L2G-NeRF)]
+
 * **Continual Neural Mapping**: "Learning An Implicit Scene Representation from Sequential Observations", *ICCV,  2021*. [[Paper](https://arxiv.org/pdf/2108.05851.pdf)]
 
 * **LATITUDE**: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF, *ICRA,  2023*. [[Paper](https://arxiv.org/pdf/2209.09357.pdf)] [[Pytorch Code](https://github.com/jike5/LATITUDE)]
