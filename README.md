@@ -311,6 +311,8 @@ https://arxiv.org/pdf/1901.05103.pdf)] [[Pytorch Code](https://github.com/facebo
 
 * "Learning Deep SDF Maps Online for Robot Navigation and Exploration", *arXiv*. [[Paper](https://arxiv.org/pdf/2207.10782.pdf)]
 
+* **DroNeRF**: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields. [[Paper](https://arxiv.org/pdf/2303.04322.pdf)]
+
 * "Enforcing safety for vision-based controllers via Control Barrier Functions and Neural Radiance Fields", *arXiv*. [[Paper](https://arxiv.org/pdf/2209.12266.pdf)]
 
 * "Full-Body Visual Self-Modeling of Robot Morphologies", *arXiv*. [[Paper](https://arxiv.org/abs/2205.01389)] [[Website](https://huajianup.github.io/research/360Roam/)]
