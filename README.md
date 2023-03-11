@@ -267,6 +267,8 @@ https://arxiv.org/pdf/1901.05103.pdf)] [[Pytorch Code](https://github.com/facebo
 
 * **NeRF-ysics**: "A Differentiable Pipeline for Enriching NeRF-Represented Objects with Dynamical Properties", *ICRA Workshop, 2022*. [[Paper](https://neural-implicit-workshop.stanford.edu/assets/pdf/lecleach.pdf)]
 
+* "Neural Implicit Representations for Physical Parameter Inference from a Single Video", *WACV, 2023*. [[Paper](https://arxiv.org/pdf/2204.14030.pdf)] [[Pytorch Code](https://github.com/florianHofherr/PhysParamInference)] [[Website](https://florianhofherr.github.io/phys-param-inference/)]
+
 * **NeuroFluid**: "Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields", *ICML, 2022*. [[Paper](https://proceedings.mlr.press/v162/guan22a/guan22a.pdf)] [[Pytorch Code](https://github.com/syguan96/NeuroFluid)]
 
 ---
