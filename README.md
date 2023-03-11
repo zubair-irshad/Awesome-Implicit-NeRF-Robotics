@@ -211,6 +211,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **TRITON**: "Neural Neural Textures Make Sim2Real Consistent", *CORL, 2022*. [[Paper](https://arxiv.org/pdf/2206.13500.pdf)] [[Website](https://tritonpaper.github.io/)] [[Pytorch Code](https://github.com/TritonPaper/TRITON)]
 
+* "Perceiving Unseen 3D Objects by Poking the Objects", *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2302.13375.pdf)] [[Website](https://zju3dv.github.io/poking_perception/)] [[Pytorch Code](https://github.com/zju3dv/poking_perception)]
+
 * "Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding", *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2210.03043.pdf)] [[Website](https://makezur.github.io/FeatureRealisticFusion/)]
 
 * **CGF**: "Learning Continuous Grasping Function with a Dexterous Hand from Human Demonstrations", *arXiv*. [[Paper](https://arxiv.org/pdf/2203.06856.pdf)] [[Website](https://jianglongye.com/cgf/)]
@@ -273,8 +275,11 @@ https://arxiv.org/pdf/1901.05103.pdf)] [[Pytorch Code](https://github.com/facebo
 
 * **NeRF-Navigation**: "Vision-Only Robot Navigation in a Neural Radiance World", *ICRA, 2022*. [[Paper](https://mikh3x4.github.io/nerf-navigation/assets/NeRF_Navigation.pdf)] [[Pytorch Code](https://github.com/mikh3x4/nerf-navigation)] [[Website](https://mikh3x4.github.io/nerf-navigation/)] 
 
+* **RNR-Map**: "Renderable Neural Radiance Map for Visual Navigation", *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2303.00304.pdf)] [[Website](https://obin-hero.github.io/RNRmap/)] 
+
 * "Uncertainty Guided Policy for Active Robotic 3D Reconstruction using Neural Radiance Fields", *RAL, 2022*. [[Paper (https://arxiv.org/pdf/2209.08409.pdf)] [[Website](https://www.vis.xyz/pub/robotic-3d-scan-with-nerf/)] 
 
+(RNR-Map 
 * **NeRF-dy**: "3D Neural Scene Representations for Visuomotor Control", *CORL, 2021*. [[Paper](https://arxiv.org/abs/2107.04004)] [[Website](https://3d-representation-learning.github.io/nerf-dy/)] 
 
 * **CompNeRFdyn**: "Learning Multi-Object Dynamics with Compositional Neural Radiance Fields", *arXiv*. [[Paper](https://arxiv.org/pdf/2202.11855.pdf)] [[Website](https://dannydriess.github.io/compnerfdyn/)] 
