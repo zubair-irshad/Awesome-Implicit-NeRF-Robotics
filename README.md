@@ -118,6 +118,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **SNeRL**: "Semantic-aware Neural Radiance Fields for Reinforcement Learning", *arXiv*. [[Paper](https://arxiv.org/pdf/2301.11520.pdf)] [[Webpage](https://sjlee.cc/snerl/)]
 
+* **CROSSFIRE**: "Camera Relocalization On Self-Supervised Features from an Implicit Representation", *arXiv*. [[Paper](https://arxiv.org/abs/2303.04869)]
+
 * **SDF-Loc**: "Signed Distance Field based 2D Relocalization and Map Update in Dynamic Environments", *ACC, 2019*. [[Paper](https://hitcm.github.io/data/papers/ACC19_sdf_loc.pdf)]
 
 * **iDF-SLAM**: "End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking", *arXiv*. [[Paper](https://arxiv.org/pdf/2209.07919.pdf)]
