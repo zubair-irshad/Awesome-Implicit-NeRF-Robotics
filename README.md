@@ -86,7 +86,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **Panoptic Multi-TSDFs**: "a Flexible Representation for Online Multi-resolution Volumetric Mapping and Long-term Dynamic Scene Consistency", *ICRA,  2022*. [[Paper](https://arxiv.org/pdf/2211.11704.pdf)] [[Pytorch Code](https://github.com/ethz-asl/panoptic_mapping)]
 
-* **SHINE-Mapping**: "Large-Scale 3D Mapping Using Sparse Hierarchical Implicit Neural Representations", *arXiv, 2022*. [[Paper](https://arxiv.org/pdf/2210.02299.pdf)] [[Code](https://github.com/PRBonn/SHINE_mapping)]
+* **SHINE-Mapping**: "Large-Scale 3D Mapping Using Sparse Hierarchical Implicit Neural Representations", *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2210.02299.pdf)] [[Code](https://github.com/PRBonn/SHINE_mapping)]
 
 * "SDF-based RGB-D Camera Tracking in Neural Scene Representations", *ICRA Workshop, 2022*. [[Paper](https://neural-implicit-workshop.stanford.edu/assets/pdf/bruns.pdf)]
 
@@ -114,6 +114,14 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 - Efficient Implicit Neural Reconstruction Using LiDAR, *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2302.14363.pdf)] [[Website](http://starydy.xyz/EINRUL/)] [[Pytorch Code](https://github.com/StarRealMan/EINRUL)] [[Video](https://www.youtube.com/watch?v=wUp2I-X-IdI)]
 
+* **vMAP**: "Vectorised Object Mapping for Neural Field SLAM", *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2302.01838.pdf)] [[Website](https://kxhit.github.io/vMAP)]
+
+* "An Algorithm for the SE(3)-Transformation on Neural Implicit Maps for Remapping Functions", *RA-L, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9804847)]
+
+* "Implicit Object Reconstruction With Noisy Data", *RSS Workshop, 2021*. [[Paper](https://arxiv.org/pdf/2204.10516.pdf)]
+
+* "NeuSE: Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects", *arXiv*. [[Paper](https://arxiv.org/pdf/2303.07308.pdf)] [[Website](https://neuse-slam.github.io/neuse/)]
+
 * **ObjectFusion**: "Accurate object-level SLAM with neural object priors", *Graphical Models,  2022*. [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070322000418)]
 
 * **NDF_Change**: "Robust Change Detection Based on Neural Descriptor Fields", *IROS, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981246)]
@@ -121,6 +129,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **LNDF**: "Local Neural Descriptor Fields: Locally Conditioned Object Representations for Manipulation", *ICRA, 2023*. [[Paper](https://arxiv.org/abs/2302.03573)] [[Webpage](https://elchun.github.io/lndf/)]
 
 * **SNeRL**: "Semantic-aware Neural Radiance Fields for Reinforcement Learning", *arXiv*. [[Paper](https://arxiv.org/pdf/2301.11520.pdf)] [[Webpage](https://sjlee.cc/snerl/)]
+
+- **NeRF-LOAM**: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping, *arXiv*. [[Paper](https://arxiv.org/pdf/2303.10709.pdf)] [[Code](https://github.com/JunyuanDeng/NeRF-LOAM)]
 
 - **Di-fusion**: Online implicit 3d reconstruction with deep priors, *CVPR, 2021*.[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_DI-Fusion_Online_Implicit_3D_Reconstruction_With_Deep_Priors_CVPR_2021_paper.pdf)] [[Pytorch Code](https://github.com/huangjh-pub/di-fusion)] 
 
@@ -130,11 +140,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **iDF-SLAM**: "End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking", *arXiv*. [[Paper](https://arxiv.org/pdf/2209.07919.pdf)]
 
-* **vMAP**: "Vectorised Object Mapping for Neural Field SLAM", *arXiv*. [[Paper](https://arxiv.org/pdf/2302.01838.pdf)] [[Website](https://kxhit.github.io/vMAP)]
-
-* "An Algorithm for the SE(3)-Transformation on Neural Implicit Maps for Remapping Functions", *RA-L, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9804847)]
-
-* "Implicit Object Reconstruction With Noisy Data", *RSS Workshop, 2021*. [[Paper](https://arxiv.org/pdf/2204.10516.pdf)]
+* "Implicit Map Augmentation for Relocalization", *ECCV Workshop, 2022*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-25066-8_36)]
 
 * "Visual-Inertial Odometry Priors for Bundle-Adjusting Neural Radiance Fields", *ICCAS, 2022*. [[Paper](http://mpil.sookmyung.ac.kr/wp-content/uploads/2022/12/2022_ICCAS_Kim.pdf)]
 
