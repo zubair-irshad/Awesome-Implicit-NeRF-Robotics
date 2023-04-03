@@ -148,6 +148,10 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * "Towards Open World NeRF-Based SLAM", *arXiv, 2023*.  [[Paper](https://arxiv.org/pdf/2301.03102.pdf)]
 
+*  **Uni-Fusion**: Universal Continuous Mapping, *arXiv, 2023*.[[Paper](https://arxiv.org/pdf/2303.12678.pdf)] [[Website](https://jarrome.github.io/Uni-Fusion/)]
+
+*  **NEWTON**: Neural View-Centric Mapping for On-the-Fly Large-Scale SLAM, *arXiv, 2023*.[[Paper](https://arxiv.org/pdf/2303.13654v1.pdf)]
+
 * "ActiveRMAP: Radiance Field for Active Mapping And Planning", *arXiv, 2022". [[Paper](https://arxiv.org/pdf/2211.12656.pdf)]
 
 * **2D-SDF-SLAM**: "A Signed Distance Function based SLAM Frontend for Laser Scanners", *IROS, 2015*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7353633)]
