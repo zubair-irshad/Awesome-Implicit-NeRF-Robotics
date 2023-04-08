@@ -134,6 +134,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 - **NeRF-LOAM**: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping, *arXiv*. [[Paper](https://arxiv.org/pdf/2303.10709.pdf)] [[Code](https://github.com/JunyuanDeng/NeRF-LOAM)]
 
+* **NeuralBlox**: "Real-Time Neural Representation Fusion for Robust Volumetric Mapping", *3DV, 2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9665902)] [[Code](https://github.com/ethz-asl/neuralblox)]
+
 - **Di-fusion**: Online implicit 3d reconstruction with deep priors, *CVPR, 2021*.[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_DI-Fusion_Online_Implicit_3D_Reconstruction_With_Deep_Priors_CVPR_2021_paper.pdf)] [[Pytorch Code](https://github.com/huangjh-pub/di-fusion)] 
 
 * **CROSSFIRE**: "Camera Relocalization On Self-Supervised Features from an Implicit Representation", *arXiv*. [[Paper](https://arxiv.org/abs/2303.04869)]
