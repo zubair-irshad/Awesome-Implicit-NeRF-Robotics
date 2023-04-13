@@ -56,7 +56,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **Style2NeRF**: "An Unsupervised One-Shot NeRF for Semantic 3D Reconstruction", *BMVC, 2022*. [[Paper](https://bmvc2022.mpi-inf.mpg.de/0104.pdf)] 
 
-* "Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion", *arXiv*. [[Paper](https://arxiv.org/pdf/2211.11674.pdf)] [[Code](https://github.com/google-research/nerf-from-image)]
+* "Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion", *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2211.11674.pdf)] [[Code](https://github.com/google-research/nerf-from-image)]
 
 * **TexPose**: "Neural Texture Learning for Self-Supervised 6D Object Pose Estimation", *CVPR 2023*. [[Paper](https://arxiv.org/pdf/2212.12902.pdf)][[Code](https://github.com/HanzhiC/TexPose)]
 
