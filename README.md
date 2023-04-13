@@ -154,7 +154,11 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 *  **NEWTON**: Neural View-Centric Mapping for On-the-Fly Large-Scale SLAM, *arXiv, 2023*.[[Paper](https://arxiv.org/pdf/2303.13654v1.pdf)]
 
+*  **Point-SLAM**: Dense Neural Point Cloud-based SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2304.04278.pdf)] [[Code](https://github.com/tfy14esa/Point-SLAM)]
+
 * "ActiveRMAP: Radiance Field for Active Mapping And Planning", *arXiv, 2022". [[Paper](https://arxiv.org/pdf/2211.12656.pdf)]
+
+* **NF-Atlas**: Multi-Volume Neural Feature Fields for Large Scale LiDAR Mapping, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2304.04624.pdf)]
 
 * **2D-SDF-SLAM**: "A Signed Distance Function based SLAM Frontend for Laser Scanners", *IROS, 2015*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7353633)]
 
