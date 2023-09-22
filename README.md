@@ -61,6 +61,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **TexPose**: "Neural Texture Learning for Self-Supervised 6D Object Pose Estimation", *CVPR 2023*. [[Paper](https://arxiv.org/pdf/2212.12902.pdf)][[Code](https://github.com/HanzhiC/TexPose)]
 
 * **Canonical Fields**: "Self-Supervised Learning of Pose-Canonicalized Neural Fields", *arXiv*. [[Paper](https://arxiv.org/pdf/2212.02493.pdf)]
+  
+* **NeRF-Det**: "Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection", *arXiv*. [[Paper](https://arxiv.org/abs/2307.14620)] [[Page] https://chenfengxu714.github.io/nerfdet/] [[Code] https://github.com/facebookresearch/NeRF-Det]
 
 ---
 ## SLAM
