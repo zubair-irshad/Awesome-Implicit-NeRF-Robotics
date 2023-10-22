@@ -169,6 +169,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **2D-SDF-SLAM**: "A Signed Distance Function based SLAM Frontend for Laser Scanners", *IROS, 2015*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7353633)]
 
+* **LONER**: "LiDAR Only Neural Representations for Real-Time SLAM", *RA-L, 2023*. [[paper](https://arxiv.org/abs/2309.04937)] [[code](https://github.com/umautobots/loner)] [[website](https://umautobots.github.io/loner)]
 ---
 ## Manipulation/RL
 
