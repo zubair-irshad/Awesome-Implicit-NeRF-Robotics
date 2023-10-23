@@ -173,6 +173,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 ---
 ## Manipulation/RL
 
+* **GNFactor**: "GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields", *CoRL 2023 Oral Presentation*. [[Paper/PDF](https://arxiv.org/abs/2308.16891)] [[Code](https://github.com/YanjieZe/GNFactor)] [[Website](https://yanjieze.com/GNFactor/)]
+
+
 * **D<sup>3</sup>Fields**: "D<sup>3</sup>Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation", *arXiv*. [[Paper](https://arxiv.org/abs/2309.16118)] [[Webpage](https://robopil.github.io/d3fields/)] [[Code](https://github.com/WangYixuan12/d3fields)] [[Video](https://youtu.be/yNkIOwAO3GA)]
 
 * **SNeRL**: "Semantic-aware Neural Radiance Fields for Reinforcement Learning", *ICML, 2023*. [[Paper](https://arxiv.org/pdf/2301.11520.pdf)] [[Webpage](https://sjlee.cc/snerl/)]
