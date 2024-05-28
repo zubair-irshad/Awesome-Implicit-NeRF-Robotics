@@ -64,6 +64,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
   
 * **NeRF-Det**: "Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection", *arXiv*. [[Paper](https://arxiv.org/abs/2307.14620)] [[Page] https://chenfengxu714.github.io/nerfdet/] [[Code] https://github.com/facebookresearch/NeRF-Det]
 
+* **One-step NeRF**: "Marrying NeRF with Feature Matching for One-step Pose Estimation", *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2404.00891)] [[Short Video](https://www.youtube.com/watch?v=70fgUobOFWo)] [[Website&Code] Coming]
+
 ---
 ## SLAM
 * **iSDF**: "Real-Time Neural Signed Distance Fields for Robot Perception", *RSS, 2022*. [[Paper](https://arxiv.org/abs/2204.02296)] [[Pytorch Code](https://github.com/facebookresearch/iSDF)] [[Website](https://joeaortiz.github.io/iSDF/)]
