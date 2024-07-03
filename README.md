@@ -34,7 +34,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **SNAKE**: "SNAKE: Shape-aware Neural 3D Keypoint Field", *NeurIPS, 2022*. [[Paper](https://arxiv.org/abs/2206.01724.pdf)] [[Pytorch Code](https://github.com/zhongcl-thu/SNAKE)]
 
-* **NeRF-RPN**: "A general framework for object detection in NeRFs", *arXiv*. [[Paper](https://arxiv.org/abs/2211.11646)] [[Video](https://youtu.be/M8_4Ih1CJjE)] 
+* **NeRF-RPN**: "A general framework for object detection in NeRFs", *CVPR 2023*. [[Paper](https://arxiv.org/abs/2211.11646)] [[Video](https://youtu.be/M8_4Ih1CJjE)]
+
+* **NeRF-MAE**: "Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields", *ECCV 2024*. [[Paper](https://arxiv.org/abs/2404.01300)] [[Webpage](https://nerf-mae.github.io/)] [[Pytorch Code](https://github.com/zubair-irshad/NeRF-MAE)]
 
 * **nerf2nerf**: "Pairwise Registration of Neural Radiance Fields", *arXiv*.  [[Paper](https://arxiv.org/pdf/2211.01600.pdf)] [[Pytorch Code]( https://github.com/nerf2nerf/nerf2nerf)] [[Webpage](https://nerf2nerf.github.io/)] [[Dataset](https://drive.google.com/drive/folders/1jNpwAv1T1ntjIHUMJ1wABePA2Z8_nRRQ)]
 
