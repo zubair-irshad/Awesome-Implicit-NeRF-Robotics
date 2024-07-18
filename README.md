@@ -279,6 +279,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 ---
 ## Object Reconstruction
 
+* **NTO3D**: "Neural Target Object 3D Reconstruction with Segment Anything", *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wei_NTO3D_Neural_Target_Object_3D_Reconstruction_with_Segment_Anything_CVPR_2024_paper.pdf)] [[Code](https://github.com/ucwxb/NTO3D)]
+
 * "Self-supervised Neural Articulated Shape and Appearance Models", *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2205.08525.pdf)] [[Website](https://weify627.github.io/nasam/)]
 
 * **NeuS**: "Learning Neural Implicit Surfacesby Volume Rendering for Multi-view Reconstruction", *Neurips, 2021*. [[Paper](https://arxiv.org/pdf/2106.10689.pdf)] [[Website](https://lingjie0206.github.io/papers/NeuS/)]
