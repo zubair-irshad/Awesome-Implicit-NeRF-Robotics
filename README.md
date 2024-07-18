@@ -279,6 +279,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 ---
 ## Object Reconstruction
 
+* **NTO3D**: "Neural Target Object 3D Reconstruction with Segment Anything", *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wei_NTO3D_Neural_Target_Object_3D_Reconstruction_with_Segment_Anything_CVPR_2024_paper.pdf)] [[Code](https://github.com/ucwxb/NTO3D)]
+
 * "Self-supervised Neural Articulated Shape and Appearance Models", *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2205.08525.pdf)] [[Website](https://weify627.github.io/nasam/)]
 
 * **NeuS**: "Learning Neural Implicit Surfacesby Volume Rendering for Multi-view Reconstruction", *Neurips, 2021*. [[Paper](https://arxiv.org/pdf/2106.10689.pdf)] [[Website](https://lingjie0206.github.io/papers/NeuS/)]
@@ -304,6 +306,9 @@ https://arxiv.org/pdf/1901.05103.pdf)] [[Pytorch Code](https://github.com/facebo
 
 ---
 ## Physics
+
+* "Inferring Hybrid Neural Fluid Fields from Videos", *Neurips, 2023*. [[Paper](https://arxiv.org/pdf/2312.06561.pdf)] [[Pytorch Code](https://github.com/y-zheng18/HyFluid)] [[Website](https://kovenyu.com/hyfluid/)]
+
 * **DANOs**: "Differentiable Physics Simulation of Dynamics-Augmented Neural Objects", *arXiv*. [[Paper](https://arxiv.org/abs/2210.09420)] [[Video](https://youtu.be/Md0PM-wv_Xg)]
 
 * **PAC-NeRF**: "Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification", *ICLR, 23*. [[Paper](https://openreview.net/pdf?id=tVkrbkz42vc)] [[Website](https://sites.google.com/view/PAC-NeRF)] [[Video](https://youtu.be/Md0PM-wv_Xg)] [[Pytorch Code](https://github.com/xuan-li/PAC-NeRF)]
@@ -315,6 +320,8 @@ https://arxiv.org/pdf/1901.05103.pdf)] [[Pytorch Code](https://github.com/facebo
 * "Neural Implicit Representations for Physical Parameter Inference from a Single Video", *WACV, 2023*. [[Paper](https://arxiv.org/pdf/2204.14030.pdf)] [[Pytorch Code](https://github.com/florianHofherr/PhysParamInference)] [[Website](https://florianhofherr.github.io/phys-param-inference/)]
 
 * **NeuroFluid**: "Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields", *ICML, 2022*. [[Paper](https://proceedings.mlr.press/v162/guan22a/guan22a.pdf)] [[Pytorch Code](https://github.com/syguan96/NeuroFluid)]
+
+* "Physics Informed Neural Fields for Smoke Reconstruction with Sparse Data", *SIGGRAPH, 2022*. [[Paper](https://rachelcmy.github.io/pinf_smoke/data/paper.pdf)] [[Pytorch Code](https://github.com/RachelCmy/pinf_smoke)][[Website](https://rachelcmy.github.io/pinf_smoke/)] 
 
 ---
 ## Planning/Navigation
