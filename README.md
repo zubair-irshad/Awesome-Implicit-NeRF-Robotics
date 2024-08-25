@@ -384,6 +384,9 @@ https://arxiv.org/pdf/1901.05103.pdf)] [[Pytorch Code](https://github.com/facebo
 * "Multi-Object Navigation with dynamically learned neural implicit representations", *arxiv*. [[Paper](https://arxiv.org/pdf/2209.13159.pdf)] [[Website](https://small-zeng.github.io/EVPP/)
 
 ----
+[![Star History Chart](https://api.star-history.com/svg?repos=zubair-irshad/Awesome-Implicit-NeRF-Robotics&type=Date)](https://star-history.com/#zubair-irshad/Awesome-Implicit-NeRF-Robotics&Date)
+----
+
 ## Citation
 If you find this repository useful, please consider citing this list:
 ```
