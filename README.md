@@ -275,7 +275,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * "A Real2Sim2Real Method for Robust Object Grasping with Neural Surface Reconstruction", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.02685.pdf)] [[Video](https://www.youtube.com/watch?v=TkvAKLsxkSc)]
 
 * **EndoNeRF**: "Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery", *MICCAI, 2022*. [[Paper](https://arxiv.org/pdf/2206.15255.pdf)] [[Pytorch Code](https://github.com/med-air/EndoNeRF)]
-	
+
+* **NFMP**: "Neural Field Movement Primitives for Joint Modelling of Scenes and Motions", *IROS, 2023*. [[Paper](https://arxiv.org/pdf/2308.05040)] [[Code](https://github.com/Fzaero/Neural-Field-Movement-Primitives)] [[Website](https://fzaero.github.io/NFMP/)]
+ 
 ---
 ## Object Reconstruction
 
