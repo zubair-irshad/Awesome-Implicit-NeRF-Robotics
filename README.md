@@ -269,8 +269,6 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **SPARTN**: "NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis", *arXiv*. [[Paper](https://arxiv.org/pdf/2301.08556.pdf)] 
 
 * "RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.11668v1.pdf)] [[Website](https://sites.google.com/nvidia.com/ngp-mpc/)]
-
-* "A Real2Sim2Real Method for Robust Object Grasping with Neural Surface Reconstruction", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.02685.pdf)] [[Video](https://www.youtube.com/watch?v=TkvAKLsxkSc)]
   
 * "Grasp Transfer based on Self-Aligning Implicit Representations of Local Surfaces", *RAL, 2023*. [[Paper](https://arxiv.org/pdf/2308.07807)] [[Code](https://github.com/Fzaero/Grasp-Transfer)] [[Website](https://fzaero.github.io/GraspTransfer/)]
 
