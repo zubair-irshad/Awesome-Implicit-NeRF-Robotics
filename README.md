@@ -1,12 +1,22 @@
-# Awesome-Implicit-NeRF-Robotics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-Implicit-NeRF-Robotics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [![arXiv](https://img.shields.io/badge/arxiv-2410.20220-b31b1b?style=flat&logoColor=red)](https://arxiv.org/abs/2410.20220)
 
+<div align="center">
+    <img src="assets/robonerf_timeline_v2.png" width="100%">
+</div>
+
+## 🏠 About
 This repo contains a curative list of **Implicit Representations and NeRF papers relating to Robotics/RL domain**, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) <br>
 
 #### Please feel free to send me [pull requests](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics/blob/main/how-to-PR.md) or [email](mailto:muhammadzubairirshad@gmail.com) to add papers! <br>
 
-If you find this repository useful, please consider [citing](#citation) and STARing this list. Feel free to share this list with others!
+This is an active repository, you can watch for following the latest advances.. If you find this repository useful, please consider [citing](#citation) and STARing this list. Feel free to share this list with others!
 
 For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeRF And Beyond](https://arxiv.org/abs/2101.05204)), Blog post ([NeRF Explosion 2020](https://dellaert.github.io/NeRF/)) and Collection ([awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF))
+
+## 🔥 News
+- [2024-10-29] 📢 Check out the first compreshensive survey paper in the Neural Fields in Robotics domain: [Neural Fields in Robotics: A Survey](https://arxiv.org/pdf/2410.20220)
+   - Some other concurrent and notable survey papers include [NeRF in Robotics](https://arxiv.org/pdf/2405.01333) and s[3D Gaussian Splatting in Robotics](https://arxiv.org/pdf/2410.12262)
+- [2022-06-09] [Zubair Irshad](https://zubairirshad.com/) curated this list and published the first version.
 
 ---
 ## Overview
@@ -390,14 +400,15 @@ https://arxiv.org/pdf/1901.05103.pdf)] [[Pytorch Code](https://github.com/facebo
 ----
 
 ## Citation
-If you find this repository useful, please consider citing this list:
+If you find this repository useful, please consider citing our survey paper:
 ```
-@misc{irshad2022implicitnerfroboticsresources,
-    title = {Awesome Implicit NeRF Robotics - A curated list of resources on implicit neural representations and nerf relating to robotics},
-    author = {Muhammad Zubair Irshad},
-    journal = {GitHub repository},
-    url = {https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics},
-    DOI= {10.5281/ZENODO.7552613}
-    year = {2022},
+@misc{irshad2024neuralfieldsroboticssurvey,
+      title={Neural Fields in Robotics: A Survey}, 
+      author={Muhammad Zubair Irshad and Mauro Comi and Yen-Chen Lin and Nick Heppert and Abhinav Valada and Rares Ambrus and Zsolt Kira and Jonathan Tremblay},
+      year={2024},
+      eprint={2410.20220},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2410.20220}, 
 }
 ```
