@@ -15,7 +15,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 ## 🔥 News
 - [2024-10-29] 📢 Check out the first compreshensive survey paper in the Neural Fields in Robotics domain: [Neural Fields in Robotics: A Survey](https://arxiv.org/pdf/2410.20220)
-   - Some other concurrent and notable survey papers include [NeRF in Robotics](https://arxiv.org/pdf/2405.01333) and s[3D Gaussian Splatting in Robotics](https://arxiv.org/pdf/2410.12262)
+   - Some other concurrent and notable survey papers include [NeRF in Robotics](https://arxiv.org/pdf/2405.01333) and [3D Gaussian Splatting in Robotics](https://arxiv.org/pdf/2410.12262)
 - [2024-05-17] 📢 First Workshop on Neural Fields in Robotics was held at ICRA'24 in Yokohama, Japan. Check out the [workshop webpage](https://robonerf.github.io/2024/) for list of accepted papers and recordings of the full workshop sessions including speaker talks. 
 - [2022-06-09] [Zubair Irshad](https://zubairirshad.com/) curated this list and published the first version.
 
