@@ -5,11 +5,31 @@
 </div>
 
 ## 🏠 About
-This repo contains a curative list of **Implicit Representations and NeRF papers relating to Robotics/RL domain**, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) <br>
 
-#### Please feel free to send me [pull requests](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics/blob/main/how-to-PR.md) or [email](mailto:muhammadzubairirshad@gmail.com) to add papers! <br>
+This repository is largely based on the following paper:
 
-This is an active repository, you can watch for following the latest advances.. If you find this repository useful, please consider [citing](#citation) 📝 and STARing ⭐ this list. Feel free to share this list with others!
+**[Neural Fields in Robotics: A Survey](https://arxiv.org/pdf/2410.20220)**
+<br />
+Muhammad Zubair Irshad, Mauro Comi, Yen-Chen Lin, Nick Heppert, Abhinav Valada, Rares Ambrus, Zsolt Kira, Jonathan Tremblay
+<br />
+
+If you find this repository helpful, please consider citing:
+
+```bibtex
+@misc{irshad2024neuralfieldsroboticssurvey,
+      title={Neural Fields in Robotics: A Survey}, 
+      author={Muhammad Zubair Irshad and Mauro Comi and Yen-Chen Lin and Nick Heppert and Abhinav Valada and Rares Ambrus and Zsolt Kira and Jonathan Tremblay},
+      year={2024},
+      eprint={2410.20220},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2410.20220}, 
+}
+```
+
+This repo contains a curative list of **Implicit Representations and NeRF papers relating to Robotics/RL domain**, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision). Please feel free to send me [pull requests](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics/blob/main/how-to-PR.md) or [email](mailto:muhammadzubairirshad@gmail.com) to add papers! <br>
+
+This is an active repository, you can watch for following the latest advances. If you find this repository useful, please consider [citing](#citation) 📝 and STARing ⭐ this list. Feel free to share this list with others!
 
 For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeRF And Beyond](https://arxiv.org/abs/2101.05204)), Blog post ([NeRF Explosion 2020](https://dellaert.github.io/NeRF/)) and Collection ([awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF))
 
