@@ -43,12 +43,17 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 ---
 ## Overview
 
+- [Awesome-Implicit-NeRF-Robotics    ](#awesome-implicit-nerf-robotics----)
+  - [🏠 About](#-about)
+  - [🔥 News](#-news)
+  - [Overview](#overview)
   - [Object Pose Estimation](#object-pose-estimation)
   - [SLAM](#slam)
   - [Manipulation/RL](#manipulationrl)
   - [Object Reconstruction](#object-reconstruction)
   - [Physics](#physics)
   - [Planning/Navigation](#planningnavigation)
+  - [](#)
   - [Citation](#citation)
  
 ---
@@ -206,6 +211,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **2D-SDF-SLAM**: "A Signed Distance Function based SLAM Frontend for Laser Scanners", *IROS, 2015*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7353633)]
 
 * **LONER**: "LiDAR Only Neural Representations for Real-Time SLAM", *RA-L, 2023*. [[paper](https://arxiv.org/abs/2309.04937)] [[code](https://github.com/umautobots/loner)] [[website](https://umautobots.github.io/loner)]
+
+* **Cross-Data Association**: "Bridging the Gap Between Explicit and Implicit Representations: Cross-Data Association for VSLAM", *T-ITS, 2024*. [[Paper](https://doi.org/10.1109/TITS.2024.3477570)]
 ---
 ## Manipulation/RL
 
