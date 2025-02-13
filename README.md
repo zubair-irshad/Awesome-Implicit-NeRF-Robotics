@@ -206,6 +206,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **2D-SDF-SLAM**: "A Signed Distance Function based SLAM Frontend for Laser Scanners", *IROS, 2015*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7353633)]
 
 * **LONER**: "LiDAR Only Neural Representations for Real-Time SLAM", *RA-L, 2023*. [[paper](https://arxiv.org/abs/2309.04937)] [[code](https://github.com/umautobots/loner)] [[website](https://umautobots.github.io/loner)]
+
+* **DISORF**: "A Distributed Online NeRF Training and Rendering Framework for Mobile Robots", *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.00228)]
+
 ---
 ## Manipulation/RL
 
@@ -309,6 +312,11 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **EndoNeRF**: "Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery", *MICCAI, 2022*. [[Paper](https://arxiv.org/pdf/2206.15255.pdf)] [[Pytorch Code](https://github.com/med-air/EndoNeRF)]
 
 * **NFMP**: "Neural Field Movement Primitives for Joint Modelling of Scenes and Motions", *IROS, 2023*. [[Paper](https://arxiv.org/pdf/2308.05040)] [[Code](https://github.com/Fzaero/Neural-Field-Movement-Primitives)] [[Website](https://fzaero.github.io/NFMP/)]
+
+* **NeRF-Aug**: "Data Augmentation for Robotics with Neural Radiance Fields", *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.02482)] [[Website](https://nerf-aug.github.io./)]
+
+* **ActNeRF**: "Uncertainty-aware Active Learning of NeRF-based Object Models for Robot Manipulators using Visual and Re-orientation Actions", *IROS, 2024*. [[Paper](https://ieeexplore.ieee.org/document/10801767)] [[Code](https://github.com/ActNeRF/ActNeRF)] [[Website](https://actnerf.github.io/)]
+
  
 ---
 ## Object Reconstruction
@@ -338,6 +346,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 https://arxiv.org/pdf/1901.05103.pdf)] [[Pytorch Code](https://github.com/facebookresearch/DeepSDF)]
 
 * **Occupancy networks**: " Learning 3d reconstruction in function space", *CVPR, 2019*. [[Paper](https://arxiv.org/pdf/1812.03828.pdf)] [[Website](https://avg.is.mpg.de/publications/occupancy-networks)]
+
+* **NeRF-Con**: "NeRF-Con: Neural Radiance Fields for Automated Construction Progress Monitoring", *ISARC, 2024*. [[Paper](https://www.researchgate.net/profile/Yuntae-Jeon/publication/381119120_NeRF-Con_Neural_Radiance_Fields_for_Automated_Construction_Progress_Monitoring/links/667eb8aa714e0b031532e3ab/NeRF-Con-Neural-Radiance-Fields-for-Automated-Construction-Progress-Monitoring.pdf)]
 
 ---
 ## Physics
