@@ -209,6 +209,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **DISORF**: "A Distributed Online NeRF Training and Rendering Framework for Mobile Robots", *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.00228)]
 
+* **FaVoR**: "Features via Voxel Rendering for Camera Relocalization", *WACV, 2025*. [[Paper](https://openaccess.thecvf.com/content/WACV2025/html/Polizzi_FaVoR_Features_via_Voxel_Rendering_for_Camera_Relocalization_WACV_2025_paper.html)] [[Code](https://github.com/utiasSTARS/FaVoR)] [[Website](https://papers.starslab.ca/favor/)] [[Video](https://youtu.be/rgV8TZzX7qc)]
+
 ---
 ## Manipulation/RL
 
