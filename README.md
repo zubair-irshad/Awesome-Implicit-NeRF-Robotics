@@ -16,14 +16,11 @@ Muhammad Zubair Irshad, Mauro Comi, Yen-Chen Lin, Nick Heppert, Abhinav Valada, 
 If you find this repository helpful, please consider citing:
 
 ```bibtex
-@misc{irshad2024neuralfieldsroboticssurvey,
-      title={Neural Fields in Robotics: A Survey}, 
-      author={Muhammad Zubair Irshad and Mauro Comi and Yen-Chen Lin and Nick Heppert and Abhinav Valada and Rares Ambrus and Zsolt Kira and Jonathan Tremblay},
-      year={2024},
-      eprint={2410.20220},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2410.20220}, 
+@article{irshad2024neuralfieldsroboticssurvey,
+  title={Neural Fields in Robotics: A Survey},
+  author={Muhammad Zubair Irshad and Mauro Comi and Yen-Chen Lin and Nick Heppert and Abhinav Valada and Rares Ambrus and Zsolt Kira and Jonathan Tremblay},
+  journal={arXiv preprint arXiv:2410.20220},
+  year={2024}
 }
 ```
 
