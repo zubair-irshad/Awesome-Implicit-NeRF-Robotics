@@ -319,7 +319,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
  
 ---
 ## Object Reconstruction
-* **FusionSense**: "Bridging Common Sense, Vision, and Touch for Robust Sparse-View Reconstruction", *ArXiv, 2024*. [[Paper](https://arxiv.org/abs/2410.08282)] [[Code](https://github.com/ai4ce/FusionSense)] [[Website](https://ai4ce.github.io/FusionSense/)]
+* **FusionSense**: "Bridging Common Sense, Vision, and Touch for Robust Sparse-View Reconstruction", *ICRA, 2025*. [[Paper](https://arxiv.org/abs/2410.08282)] [[Code](https://github.com/ai4ce/FusionSense)] [[Website](https://ai4ce.github.io/FusionSense/)]
 
 * **NTO3D**: "Neural Target Object 3D Reconstruction with Segment Anything", *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wei_NTO3D_Neural_Target_Object_3D_Reconstruction_with_Segment_Anything_CVPR_2024_paper.pdf)] [[Code](https://github.com/ucwxb/NTO3D)]
 
