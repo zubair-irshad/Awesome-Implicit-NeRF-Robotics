@@ -316,6 +316,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **ActNeRF**: "Uncertainty-aware Active Learning of NeRF-based Object Models for Robot Manipulators using Visual and Re-orientation Actions", *IROS, 2024*. [[Paper](https://ieeexplore.ieee.org/document/10801767)] [[Code](https://github.com/ActNeRF/ActNeRF)] [[Website](https://actnerf.github.io/)]
 
+* **NeuGrasp**: "Generalizable Neural Surface Reconstruction with Background Priors for Material-Agnostic Object Grasp Detection", *ICRA, 2025*. [[Paper](https://arxiv.org/abs/2503.03511)] [[Code](https://github.com/Fanqyu/NeuGrasp)] [[Website](https://neugrasp.github.io/)]
+
+
  
 ---
 ## Object Reconstruction
